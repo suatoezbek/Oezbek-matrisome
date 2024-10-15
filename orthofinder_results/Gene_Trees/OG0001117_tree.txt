@@ -1,0 +1,1 @@
+(Chordata_Vertebrata_Bos_taurus_NP_001179460.1 cyclin-T2 _Bos taurus_:1.28937,((Ctenophora_Tentaculata_Mnemiopsis_leidyi_Mnemiopsis_leidyi_ML00157a ML00157a:0.769976,Ctenophora_Tentaculata_Mnemiopsis_leidyi_Mnemiopsis_leidyi_ML05595a ML05595a:0.412378):0.314497,Ctenophora_Tentaculata_Mnemiopsis_leidyi_Mnemiopsis_leidyi_ML455314a ML455314a:1.08179):1.28937);

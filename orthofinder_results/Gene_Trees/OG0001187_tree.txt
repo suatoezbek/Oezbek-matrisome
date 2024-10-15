@@ -1,0 +1,1 @@
+(Cnidaria_Anthozoa_Xenia_spec_Xenia_spec_Xe_001336_T4 Xe_001336_T4 Xe_001336:0.086416,((Cnidaria_Anthozoa_Xenia_spec_Xenia_spec_Xe_001336_T1 Xe_001336_T1 Xe_001336:0.013474,Cnidaria_Anthozoa_Xenia_spec_Xenia_spec_Xe_001336_T3 Xe_001336_T3 Xe_001336:0.024389):0.05416,Cnidaria_Anthozoa_Xenia_spec_Xenia_spec_Xe_001336_T2 Xe_001336_T2 Xe_001336:2.48792e-07):0.086416);
