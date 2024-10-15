@@ -1,0 +1,51 @@
+sample_id	source_file	acquired_spectra	mascot_matched_spectra	spectra_in_qc_proteins	quantified_spectra	mean_precursor_ion_accuracy	sd_precursor_ion_accuracy	mean_reporter_ion_accuracy	sd_reporter_ion_accuracy
+1	Ernie_201208_P1482_MR_GB_SeaAne_fr9.raw	35923	12555	9470	9468	1.34637	2.47211	-0.000159933	0.000194605
+2	Ernie_201208_P1482_MR_GB_SeaAne_fr8.raw	35946	13102	9948	9946	0.103267	2.48602	-0.000339	0.000201789
+3	Ernie_201208_P1482_MR_GB_SeaAne_fr7.raw	36176	17659	14459	14459	-1.20308	2.29054	-0.000528755	0.000183453
+4	Ernie_201208_P1482_MR_GB_SeaAne_fr6.raw	36087	16001	12805	12803	0.911878	2.31443	-0.000196689	0.000196618
+5	Ernie_201208_P1482_MR_GB_SeaAne_fr5.raw	36115	15964	12903	12903	-0.22864	2.2038	-0.000372065	0.000193638
+6	Ernie_201208_P1482_MR_GB_SeaAne_fr4.raw	36084	15133	12080	12080	-1.82252	3.7901	-0.000625557	0.000493182
+7	Ernie_201208_P1482_MR_GB_SeaAne_fr3.raw	35931	15422	12317	12317	-0.113042	2.27311	-0.000366292	0.000191871
+8	Ernie_201208_P1482_MR_GB_SeaAne_fr2.raw	35757	14832	11936	11936	0.274147	2.39124	-0.000325323	0.000243829
+9	Ernie_201208_P1482_MR_GB_SeaAne_fr12.raw	35789	14720	11594	11594	0.275991	2.30316	-0.000311256	0.000196921
+10	Ernie_201208_P1482_MR_GB_SeaAne_fr11.raw	35945	14073	11196	11194	-0.609874	2.38467	-0.000458675	0.00019403
+11	Ernie_201208_P1482_MR_GB_SeaAne_fr10.raw	35905	13269	10392	10389	-0.2436	2.41054	-0.000402107	0.000190276
+12	Ernie_201208_P1482_MR_GB_SeaAne_fr1.raw	35844	14706	11712	11712	0.0714417	2.27608	-0.000333429	0.000190322
+all	combined	431502	177436	140812	140801	-0.148099022097	2.6270124811	-0.000374494808142	0.000268900588899
+
+
+type	protein_hits
+target	6944
+decoy	197
+
+
+fdr	min_mascot_score
+5%	13
+1%	26
+
+
+analysis	application	section	parameter	value
+preMascot	1 pyMSsafe	general	tolppm	8
+preMascot	1 pyMSsafe	general	tolmda	8
+preMascot	1 pyMSsafe	general	beforepeak	0.5
+preMascot	1 pyMSsafe	general	afterpeak	0.5
+preMascot	1 pyMSsafe	general	thread_count	12
+preMascot	1 pyMSsafe	general	printchargedata	True
+postMascot	2 proteinInference	general	minnumhook	1
+postMascot	2 proteinInference	general	dopickedproteinfdr	True
+postMascot	2 proteinInference	general	fdrthreshold	0.01
+postMascot	2 proteinInference	general	groupbygenename	True
+postMascot	5 quantifyProteins	general	fdrthreshold	0.01
+postMascot	5 quantifyProteins	ms2quantification	quantmethod	bootstrap
+postMascot	5 quantifyProteins	ms2quantification	remove_zeros	False
+postMascot	5 quantifyProteins	ms2quantification	remove_zero_threshold	-1
+postMascot	5 quantifyProteins	ms2quantification	p2tthreshold	4.0
+postMascot	5 quantifyProteins	ms2quantification	s2ithreshold	0.5
+postMascot	5 quantifyProteins	ms2quantification	mascotthreshold	15.0
+postMascot	5 quantifyProteins	ms2quantification	peplengthfilter	6
+postMascot	5 quantifyProteins	ms2quantification	fdrthreshold	0.01
+postMascot	5 quantifyProteins	ms2quantification	deltaseqfilter	5
+postMascot	5 quantifyProteins	ms2quantification	minquantspectra	4
+postMascot	5 quantifyProteins	ms2quantification	prior_ion_filter	1000.0
+postMascot	5 quantifyProteins	ms2quantification	least_squares_filter	1000.0
+postMascot	5 quantifyProteins	ms2quantification	ms1source_filter	None
