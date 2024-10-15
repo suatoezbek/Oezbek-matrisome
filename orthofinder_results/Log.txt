@@ -1,0 +1,42 @@
+2024-09-10 13:57:19 : Started OrthoFinder version 2.5.4
+Command Line: orthofinder/OrthoFinder/orthofinder -f /mnt/d/Data/orthofinder_input/matrisome/ -t 13 -a 13
+
+WorkingDirectory_Base: /mnt/d/Data/orthofinder_input/matrisome/OrthoFinder/Results_Sep10_1/WorkingDirectory/
+
+Species used: 
+0: Choanozoa_Choanoflagellatea_Monosiga_brevicollis.fasta
+1: Choanozoa_Choanoflagellatea_Salpingoeca_rosetta.fasta
+2: Chordata_Amphioxiformes_Branchiostoma_belcheri.fasta
+3: Chordata_Amphioxiformes_Branchiostoma_floridae.fasta
+4: Chordata_Amphioxiformes_Branchiostoma_lanceolatum.fasta
+5: Chordata_Vertebrata_Bos_taurus.fasta
+6: Chordata_Vertebrata_Coturnix_japonica.fasta
+7: Chordata_Vertebrata_Danio_rerio.fasta
+8: Chordata_Vertebrata_Homo_sapiens.fasta
+9: Chordata_Vertebrata_Mus_musculus.fasta
+10: Cnidaria_Anthozoa_Acropora_digitifera.fasta
+11: Cnidaria_Anthozoa_Exaiptasia_diaphana.fasta
+12: Cnidaria_Anthozoa_Nematostella_vectensis.fasta
+13: Cnidaria_Anthozoa_Porites_asteroides.fasta
+14: Cnidaria_Anthozoa_Stylophora_pistillata.fasta
+15: Cnidaria_Anthozoa_Xenia_spec.fasta
+16: Cnidaria_Cubozoa_Morbakka_virulenta.fasta
+17: Cnidaria_Hydrozoa_Clytia_hemispherica.fasta
+18: Cnidaria_Hydrozoa_Hydra_vulgaris.fasta
+19: Cnidaria_Myxozoa_Thelohanellus_kitauei.fasta
+20: Cnidaria_Scyphozoa_Aurelia_aurita.fasta
+21: Cnidaria_Staurozoa_Calvadosia_cruxmelitensis.fasta
+22: Ctenophora_Nuda_Beroe_ovata.fasta
+23: Ctenophora_Tentaculata_Mnemiopsis_leidyi.fasta
+24: Ctenophora_Tentaculata_Pleurobrachia_bachei.fasta
+25: Insecta_Diptera_Drosophila_melanogaster.fasta
+26: Nematoda_Chromadorea_Caenorhabditis_elegans.fasta
+27: Placozoa_Trichoplacidae_Trichoplax_spec-H2.fasta
+28: Placozoa_Trichoplacidae_Tricoplax_adhaerens.fasta
+29: Platyhelminthes_Tricladida_Schmidtea_mediterranea.fasta
+30: Porifera_Demospongiae_Amphimedon_queenslandica.fasta
+31: Porifera_Demospongiae_Ephydatia_muelleri.fasta
+
+FN_Orthogroups: /mnt/d/Data/orthofinder_input/matrisome/OrthoFinder/Results_Sep10_1/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /mnt/d/Data/orthofinder_input/matrisome/OrthoFinder/Results_Sep10_1/WorkingDirectory/
+2024-09-10 14:24:46 : OrthoFinder run completed
