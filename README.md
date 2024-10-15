@@ -6,7 +6,7 @@ B. Gideon Bergheim, Alison G. Cole, Mandy Rettel, Frank Stein, Stefan Redl, Mich
 
 ---
 
- ## Supplementary Files
+## Supplementary Files
 
 ### in_silico_matrisomes
 #### from_literature
@@ -81,3 +81,12 @@ Cnidaria (where excluded to avoid a Cnidarian bias as much as possible)
 - *Hydractinia symbiolongicarpus*
 - *Myxobolus honghuensis*
 - *Cassiopea xamachana*
+
+## orthofinder results
+This directory contains most of the output of the orthofinder run used to identify orthogroups. The extensive overview ove r the files can be found on the [OrthoFinder Tutorial](https://davidemms.github.io/orthofinder_tutorials/exploring-orthofinders-results.html).
+
+## Source Code
+This directory contains the python code whichas used to generate the in silico matrisomes and the following analyses. Some of these rely on additional files found in suppl_code_files.
+
+## mass_spec_run
+This directory contains the MS files and R analysis markdown files written by Frank Stein.
