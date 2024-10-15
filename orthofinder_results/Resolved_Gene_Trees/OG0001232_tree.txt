@@ -1,0 +1,1 @@
+(Ctenophora_Tentaculata_Mnemiopsis_leidyi_Mnemiopsis_leidyi_ML49658a ML49658a:0.422586,((Ctenophora_Nuda_Beroe_ovata_Beroe_ovata_Bova1_4.0104.g33.t3 Bova1_4.0104.g33.t3:0,Ctenophora_Nuda_Beroe_ovata_Beroe_ovata_Bova1_4.0104.g33.t2 Bova1_4.0104.g33.t2:0)n2:0,Ctenophora_Nuda_Beroe_ovata_Beroe_ovata_Bova1_4.0104.g33.t1 Bova1_4.0104.g33.t1:0)n1:0.422586)n0;

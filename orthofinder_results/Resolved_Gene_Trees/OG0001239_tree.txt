@@ -1,0 +1,1 @@
+(Ctenophora_Tentaculata_Mnemiopsis_leidyi_Mnemiopsis_leidyi_ML20572a ML20572a:0.0861795,(Ctenophora_Tentaculata_Mnemiopsis_leidyi_Mnemiopsis_leidyi_ML149216a ML149216a:0.261797,(Ctenophora_Tentaculata_Mnemiopsis_leidyi_Mnemiopsis_leidyi_ML41821a ML41821a:0.393687,Ctenophora_Tentaculata_Mnemiopsis_leidyi_Mnemiopsis_leidyi_ML020064a ML020064a:0.374169)n2:1.0562)n1:0.0861795)n0;

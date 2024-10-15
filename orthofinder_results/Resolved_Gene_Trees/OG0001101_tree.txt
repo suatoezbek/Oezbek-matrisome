@@ -1,0 +1,1 @@
+(Chordata_Vertebrata_Bos_taurus_pdb|5ULG|B Chain B_ Retinoid isomerohydrolase:0,(Chordata_Vertebrata_Bos_taurus_pdb|5ULG|B Chain B_ Retinoid isomerohydrolase:0,(Chordata_Vertebrata_Bos_taurus_pdb|5ULG|B Chain B_ Retinoid isomerohydrolase:0,Chordata_Vertebrata_Bos_taurus_pdb|5ULG|B Chain B_ Retinoid isomerohydrolase:0)n2:0)n1:0)n0;
