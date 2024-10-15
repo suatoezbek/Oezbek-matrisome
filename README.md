@@ -8,6 +8,9 @@ B. Gideon Bergheim, Alison G. Cole, Mandy Rettel, Frank Stein, Stefan Redl, Mich
 
 ## Supplementary Files
 
+### input_proteomes
+FASTA files of complete proteomes used as basis for *in silico* matrisome generation
+
 ### in_silico_matrisomes
 #### from_literature
 In silico matrisomes taken from the [Matrisome Project](https://sites.google.com/uic.edu/matrisome/home) webpage. IDs were looked up in the respectie sequence data bases. For Bos Taurus (where no IDs were provided) genes were searched by gene name.<br>
@@ -82,11 +85,11 @@ Cnidaria (where excluded to avoid a Cnidarian bias as much as possible)
 - *Myxobolus honghuensis*
 - *Cassiopea xamachana*
 
-## orthofinder results
+### orthofinder results
 This directory contains most of the output of the orthofinder run used to identify orthogroups. The extensive overview ove r the files can be found on the [OrthoFinder Tutorial](https://davidemms.github.io/orthofinder_tutorials/exploring-orthofinders-results.html).
 
-## Source Code
+### Source Code
 This directory contains the python code whichas used to generate the in silico matrisomes and the following analyses. Some of these rely on additional files found in suppl_code_files.
 
-## mass_spec_run
+### mass_spec_run
 This directory contains the MS files and R analysis markdown files written by Frank Stein.
