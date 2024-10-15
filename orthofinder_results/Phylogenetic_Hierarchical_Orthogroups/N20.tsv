@@ -1,0 +1,477 @@
+HOG	OG	Gene Tree Parent Clade	Choanozoa_Choanoflagellatea_Monosiga_brevicollis	Choanozoa_Choanoflagellatea_Salpingoeca_rosetta	Chordata_Amphioxiformes_Branchiostoma_belcheri	Chordata_Amphioxiformes_Branchiostoma_floridae	Chordata_Amphioxiformes_Branchiostoma_lanceolatum	Chordata_Vertebrata_Bos_taurus	Chordata_Vertebrata_Coturnix_japonica	Chordata_Vertebrata_Danio_rerio	Chordata_Vertebrata_Homo_sapiens	Chordata_Vertebrata_Mus_musculus	Cnidaria_Anthozoa_Acropora_digitifera	Cnidaria_Anthozoa_Exaiptasia_diaphana	Cnidaria_Anthozoa_Nematostella_vectensis	Cnidaria_Anthozoa_Porites_asteroides	Cnidaria_Anthozoa_Stylophora_pistillata	Cnidaria_Anthozoa_Xenia_spec	Cnidaria_Cubozoa_Morbakka_virulenta	Cnidaria_Hydrozoa_Clytia_hemispherica	Cnidaria_Hydrozoa_Hydra_vulgaris	Cnidaria_Myxozoa_Thelohanellus_kitauei	Cnidaria_Scyphozoa_Aurelia_aurita	Cnidaria_Staurozoa_Calvadosia_cruxmelitensis	Ctenophora_Nuda_Beroe_ovata	Ctenophora_Tentaculata_Mnemiopsis_leidyi	Ctenophora_Tentaculata_Pleurobrachia_bachei	Insecta_Diptera_Drosophila_melanogaster	Nematoda_Chromadorea_Caenorhabditis_elegans	Placozoa_Trichoplacidae_Trichoplax_spec-H2	Placozoa_Trichoplacidae_Tricoplax_adhaerens	Platyhelminthes_Tricladida_Schmidtea_mediterranea	Porifera_Demospongiae_Amphimedon_queenslandica	Porifera_Demospongiae_Ephydatia_muelleri
+N20.HOG0000000	OG0000000	n151																							Beroe_ovata_Bova1_4.0362.g6.t1 Bova1_4.0362.g6.t1									
+N20.HOG0000001	OG0000001	n20																							Beroe_ovata_Bova1_4.0354.g11.t1 Bova1_4.0354.g11.t1, Beroe_ovata_Bova1_4.0491.g2.t1 Bova1_4.0491.g2.t1	Mnemiopsis_leidyi_ML035910a ML035910a								
+N20.HOG0000002	OG0000001	n40																							Beroe_ovata_Bova1_4.0131.g19.t1 Bova1_4.0131.g19.t1, Beroe_ovata_Bova1_4.0024.g21.t1 Bova1_4.0024.g21.t1, Beroe_ovata_Bova1_4.0024.g19.t1 Bova1_4.0024.g19.t1, Beroe_ovata_Bova1_4.0024.g19.t2 Bova1_4.0024.g19.t2	Mnemiopsis_leidyi_ML101022a ML101022a								
+N20.HOG0000003	OG0000001	n48																							Beroe_ovata_Bova1_4.0204.g2.t1 Bova1_4.0204.g2.t1	Mnemiopsis_leidyi_ML17591a ML17591a								
+N20.HOG0000004	OG0000001	n128																							Beroe_ovata_Bova1_4.0158.g6.t2 Bova1_4.0158.g6.t2, Beroe_ovata_Bova1_4.0158.g6.t1 Bova1_4.0158.g6.t1, Beroe_ovata_Bova1_4.0158.g6.t3 Bova1_4.0158.g6.t3	Mnemiopsis_leidyi_ML21866a ML21866a								
+N20.HOG0000005	OG0000001	n271																							Beroe_ovata_Bova1_4.0314.g2.t1 Bova1_4.0314.g2.t1	Mnemiopsis_leidyi_ML22257a ML22257a								
+N20.HOG0000006	OG0000001	n631																							Beroe_ovata_Bova1_4.0014.g131.t1 Bova1_4.0014.g131.t1									
+N20.HOG0000007	OG0000001	n678																								Mnemiopsis_leidyi_ML44781a ML44781a								
+N20.HOG0000008	OG0000001	n895																							Beroe_ovata_Bova1_4.0039.g44.t1 Bova1_4.0039.g44.t1									
+N20.HOG0000009	OG0000001	n996																							Beroe_ovata_Bova1_4.0393.g3.t1 Bova1_4.0393.g3.t1									
+N20.HOG0000010	OG0000001	n1007																							Beroe_ovata_Bova1_4.0078.g20.t1 Bova1_4.0078.g20.t1	Mnemiopsis_leidyi_ML141745a ML141745a								
+N20.HOG0000011	OG0000001	n1062																							Beroe_ovata_Bova1_4.0005.g58.t1 Bova1_4.0005.g58.t1	Mnemiopsis_leidyi_ML20591a ML20591a, Mnemiopsis_leidyi_ML05951a ML05951a								
+N20.HOG0000012	OG0000001	n1164																							Beroe_ovata_Bova1_4.0158.g1.t2 Bova1_4.0158.g1.t2, Beroe_ovata_Bova1_4.0158.g1.t1 Bova1_4.0158.g1.t1, Beroe_ovata_Bova1_4.0469.g2.t2 Bova1_4.0469.g2.t2, Beroe_ovata_Bova1_4.0469.g2.t1 Bova1_4.0469.g2.t1									
+N20.HOG0000013	OG0000001	n1169																							Beroe_ovata_Bova1_4.0013.g38.t1 Bova1_4.0013.g38.t1									
+N20.HOG0000014	OG0000002	n4																							Beroe_ovata_Bova1_4.0169.g17.t1 Bova1_4.0169.g17.t1	Mnemiopsis_leidyi_ML174724a ML174724a								
+N20.HOG0000015	OG0000002	n35																							Beroe_ovata_Bova1_4.0122.g2.t1 Bova1_4.0122.g2.t1	Mnemiopsis_leidyi_ML025011a ML025011a								
+N20.HOG0000016	OG0000002	n37																							Beroe_ovata_Bova1_4.0167.g18.t1 Bova1_4.0167.g18.t1	Mnemiopsis_leidyi_ML15458a ML15458a								
+N20.HOG0000017	OG0000002	n38																							Beroe_ovata_Bova1_4.0036.g56.t1 Bova1_4.0036.g56.t1	Mnemiopsis_leidyi_ML21527a ML21527a								
+N20.HOG0000018	OG0000002	n41																							Beroe_ovata_Bova1_4.0113.g13.t1 Bova1_4.0113.g13.t1	Mnemiopsis_leidyi_ML02152a ML02152a								
+N20.HOG0000019	OG0000002	n43																							Beroe_ovata_Bova1_4.0287.g9.t1 Bova1_4.0287.g9.t1, Beroe_ovata_Bova1_4.0287.g10.t1 Bova1_4.0287.g10.t1	Mnemiopsis_leidyi_ML104325a ML104325a								
+N20.HOG0000020	OG0000002	n46																							Beroe_ovata_Bova1_4.0006.g158.t1 Bova1_4.0006.g158.t1	Mnemiopsis_leidyi_ML014910a ML014910a								
+N20.HOG0000021	OG0000002	n49																							Beroe_ovata_Bova1_4.0022.g96.t1 Bova1_4.0022.g96.t1	Mnemiopsis_leidyi_ML04601a ML04601a								
+N20.HOG0000022	OG0000002	n51																							Beroe_ovata_Bova1_4.0017.g28.t1 Bova1_4.0017.g28.t1, Beroe_ovata_Bova1_4.0017.g27.t1 Bova1_4.0017.g27.t1	Mnemiopsis_leidyi_ML06976a ML06976a								
+N20.HOG0000023	OG0000002	n122																							Beroe_ovata_Bova1_4.0019.g34.t1 Bova1_4.0019.g34.t1	Mnemiopsis_leidyi_ML049019a ML049019a								
+N20.HOG0000024	OG0000002	n125																							Beroe_ovata_Bova1_4.0105.g2.t1 Bova1_4.0105.g2.t1, Beroe_ovata_Bova1_4.0092.g42.t1 Bova1_4.0092.g42.t1	Mnemiopsis_leidyi_ML34222a ML34222a								
+N20.HOG0000025	OG0000002	n150																							Beroe_ovata_Bova1_4.0019.g35.t1 Bova1_4.0019.g35.t1									
+N20.HOG0000026	OG0000002	n354																							Beroe_ovata_Bova1_4.0556.g1.t1 Bova1_4.0556.g1.t1									
+N20.HOG0000027	OG0000002	n358																							Beroe_ovata_Bova1_4.0059.g49.t3 Bova1_4.0059.g49.t3, Beroe_ovata_Bova1_4.0059.g49.t1 Bova1_4.0059.g49.t1, Beroe_ovata_Bova1_4.0059.g49.t2 Bova1_4.0059.g49.t2, Beroe_ovata_Bova1_4.0024.g32.t1 Bova1_4.0024.g32.t1	Mnemiopsis_leidyi_ML05979a ML05979a								
+N20.HOG0000028	OG0000002	n364																							Beroe_ovata_Bova1_4.0560.g1.t1 Bova1_4.0560.g1.t1	Mnemiopsis_leidyi_ML08108a ML08108a								
+N20.HOG0000029	OG0000002	n511																							Beroe_ovata_Bova1_4.0022.g39.t1 Bova1_4.0022.g39.t1	Mnemiopsis_leidyi_ML05299a ML05299a								
+N20.HOG0000030	OG0000002	n512																							Beroe_ovata_Bova1_4.0143.g14.t1 Bova1_4.0143.g14.t1	Mnemiopsis_leidyi_ML016334a ML016334a								
+N20.HOG0000031	OG0000002	n539																								Mnemiopsis_leidyi_ML033229a ML033229a								
+N20.HOG0000032	OG0000002	n574																							Beroe_ovata_Bova1_4.0002.g184.t1 Bova1_4.0002.g184.t1									
+N20.HOG0000033	OG0000002	n620																							Beroe_ovata_Bova1_4.0147.g36.t1 Bova1_4.0147.g36.t1	Mnemiopsis_leidyi_ML040510a ML040510a								
+N20.HOG0000034	OG0000002	n632																								Mnemiopsis_leidyi_ML20422a ML20422a								
+N20.HOG0000035	OG0000002	n636																								Mnemiopsis_leidyi_ML030920a ML030920a, Mnemiopsis_leidyi_ML234011a ML234011a, Mnemiopsis_leidyi_ML02691a ML02691a, Mnemiopsis_leidyi_ML09091a ML09091a, Mnemiopsis_leidyi_ML05985a ML05985a, Mnemiopsis_leidyi_ML460824a ML460824a, Mnemiopsis_leidyi_ML154111a ML154111a, Mnemiopsis_leidyi_ML259914a ML259914a, Mnemiopsis_leidyi_ML00858a ML00858a								
+N20.HOG0000036	OG0000002	n656																								Mnemiopsis_leidyi_ML14871a ML14871a								
+N20.HOG0000037	OG0000002	n658																								Mnemiopsis_leidyi_ML093048a ML093048a								
+N20.HOG0000038	OG0000002	n737																							Beroe_ovata_Bova1_4.0116.g21.t1 Bova1_4.0116.g21.t1	Mnemiopsis_leidyi_ML27988a ML27988a								
+N20.HOG0000039	OG0000002	n764																							Beroe_ovata_Bova1_4.0035.g60.t1 Bova1_4.0035.g60.t1									
+N20.HOG0000040	OG0000002	n824																								Mnemiopsis_leidyi_ML050913a ML050913a								
+N20.HOG0000041	OG0000002	n970																								Mnemiopsis_leidyi_ML27985a ML27985a, Mnemiopsis_leidyi_ML000132a ML000132a, Mnemiopsis_leidyi_ML10112a ML10112a, Mnemiopsis_leidyi_ML10113a ML10113a, Mnemiopsis_leidyi_ML271515a ML271515a, Mnemiopsis_leidyi_ML460822a ML460822a								
+N20.HOG0000042	OG0000002	n1040																								Mnemiopsis_leidyi_ML07453a ML07453a								
+N20.HOG0000043	OG0000002	n1043																							Beroe_ovata_Bova1_4.0176.g1.t1 Bova1_4.0176.g1.t1, Beroe_ovata_Bova1_4.2215.g1.t1 Bova1_4.2215.g1.t1									
+N20.HOG0000044	OG0000002	n1071																							Beroe_ovata_Bova1_4.0084.g30.t1 Bova1_4.0084.g30.t1, Beroe_ovata_Bova1_4.0084.g31.t1 Bova1_4.0084.g31.t1									
+N20.HOG0000045	OG0000002	n1076																							Beroe_ovata_Bova1_4.0113.g24.t1 Bova1_4.0113.g24.t1, Beroe_ovata_Bova1_4.0113.g23.t1 Bova1_4.0113.g23.t1, Beroe_ovata_Bova1_4.0068.g44.t1 Bova1_4.0068.g44.t1	Mnemiopsis_leidyi_ML10553a ML10553a, Mnemiopsis_leidyi_ML14987a ML14987a, Mnemiopsis_leidyi_ML090217a ML090217a								
+N20.HOG0000046	OG0000003	n106																							Beroe_ovata_Bova1_4.0188.g3.t1 Bova1_4.0188.g3.t1, Beroe_ovata_Bova1_4.0188.g5.t1 Bova1_4.0188.g5.t1									
+N20.HOG0000047	OG0000003	n211																							Beroe_ovata_Bova1_4.0552.g4.t1 Bova1_4.0552.g4.t1, Beroe_ovata_Bova1_4.0203.g12.t2 Bova1_4.0203.g12.t2, Beroe_ovata_Bova1_4.0203.g12.t1 Bova1_4.0203.g12.t1, Beroe_ovata_Bova1_4.0552.g5.t1 Bova1_4.0552.g5.t1, Beroe_ovata_Bova1_4.0203.g13.t1 Bova1_4.0203.g13.t1	Mnemiopsis_leidyi_ML216321a ML216321a								
+N20.HOG0000048	OG0000003	n218																							Beroe_ovata_Bova1_4.2546.g1.t1 Bova1_4.2546.g1.t1									
+N20.HOG0000049	OG0000003	n489																								Mnemiopsis_leidyi_ML01786a ML01786a								
+N20.HOG0000050	OG0000003	n779																							Beroe_ovata_Bova1_4.0033.g69.t1 Bova1_4.0033.g69.t1	Mnemiopsis_leidyi_ML056959a ML056959a								
+N20.HOG0000051	OG0000003	n821																							Beroe_ovata_Bova1_4.0075.g12.t1 Bova1_4.0075.g12.t1	Mnemiopsis_leidyi_ML090113a ML090113a								
+N20.HOG0000052	OG0000004	n570																							Beroe_ovata_Bova1_4.0153.g12.t1 Bova1_4.0153.g12.t1, Beroe_ovata_Bova1_4.0070.g19.t1 Bova1_4.0070.g19.t1, Beroe_ovata_Bova1_4.0153.g8.t1 Bova1_4.0153.g8.t1, Beroe_ovata_Bova1_4.0070.g24.t1 Bova1_4.0070.g24.t1, Beroe_ovata_Bova1_4.0070.g25.t1 Bova1_4.0070.g25.t1									
+N20.HOG0000053	OG0000004	n575																								Mnemiopsis_leidyi_ML077636a ML077636a								
+N20.HOG0000054	OG0000004	n576																								Mnemiopsis_leidyi_ML270522a ML270522a								
+N20.HOG0000055	OG0000004	n646																							Beroe_ovata_Bova1_4.0262.g2.t1 Bova1_4.0262.g2.t1									
+N20.HOG0000056	OG0000004	n652																							Beroe_ovata_Bova1_4.0124.g42.t1 Bova1_4.0124.g42.t1	Mnemiopsis_leidyi_ML306110a ML306110a								
+N20.HOG0000057	OG0000004	n661																							Beroe_ovata_Bova1_4.0089.g49.t1 Bova1_4.0089.g49.t1	Mnemiopsis_leidyi_ML00359a ML00359a								
+N20.HOG0000058	OG0000004	n755																							Beroe_ovata_Bova1_4.0009.g97.t1 Bova1_4.0009.g97.t1									
+N20.HOG0000059	OG0000005	n20																								Mnemiopsis_leidyi_ML073034a ML073034a								
+N20.HOG0000060	OG0000005	n34																							Beroe_ovata_Bova1_4.0134.g16.t1 Bova1_4.0134.g16.t1	Mnemiopsis_leidyi_ML104615a ML104615a, Mnemiopsis_leidyi_ML104616a ML104616a								
+N20.HOG0000061	OG0000005	n37																								Mnemiopsis_leidyi_ML00083a ML00083a								
+N20.HOG0000062	OG0000005	n206																							Beroe_ovata_Bova1_4.0259.g12.t1 Bova1_4.0259.g12.t1	Mnemiopsis_leidyi_ML073410a ML073410a								
+N20.HOG0000063	OG0000005	n295																							Beroe_ovata_Bova1_4.0020.g36.t1 Bova1_4.0020.g36.t1, Beroe_ovata_Bova1_4.0020.g37.t1 Bova1_4.0020.g37.t1	Mnemiopsis_leidyi_ML19042a ML19042a								
+N20.HOG0000064	OG0000005	n300																							Beroe_ovata_Bova1_4.0536.g2.t1 Bova1_4.0536.g2.t1									
+N20.HOG0000065	OG0000005	n315																							Beroe_ovata_Bova1_4.0019.g62.t1 Bova1_4.0019.g62.t1	Mnemiopsis_leidyi_ML05712a ML05712a								
+N20.HOG0000066	OG0000005	n335																							Beroe_ovata_Bova1_4.0040.g7.t1 Bova1_4.0040.g7.t1, Beroe_ovata_Bova1_4.0040.g7.t2 Bova1_4.0040.g7.t2	Mnemiopsis_leidyi_ML348710a ML348710a								
+N20.HOG0000067	OG0000006	n141																							Beroe_ovata_Bova1_4.0221.g2.t1 Bova1_4.0221.g2.t1	Mnemiopsis_leidyi_ML15411a ML15411a								
+N20.HOG0000068	OG0000006	n196																							Beroe_ovata_Bova1_4.0112.g36.t1 Bova1_4.0112.g36.t1	Mnemiopsis_leidyi_ML085711a ML085711a								
+N20.HOG0000069	OG0000006	n313																							Beroe_ovata_Bova1_4.0105.g13.t2 Bova1_4.0105.g13.t2, Beroe_ovata_Bova1_4.0105.g13.t1 Bova1_4.0105.g13.t1	Mnemiopsis_leidyi_ML14766a ML14766a								
+N20.HOG0000070	OG0000006	n374																							Beroe_ovata_Bova1_4.0014.g28.t1 Bova1_4.0014.g28.t1									
+N20.HOG0000071	OG0000006	n398																							Beroe_ovata_Bova1_4.0012.g13.t1 Bova1_4.0012.g13.t1	Mnemiopsis_leidyi_ML085031a ML085031a								
+N20.HOG0000072	OG0000006	n430																							Beroe_ovata_Bova1_4.0426.g1.t1 Bova1_4.0426.g1.t1, Beroe_ovata_Bova1_4.0137.g7.t1 Bova1_4.0137.g7.t1, Beroe_ovata_Bova1_4.0347.g7.t1 Bova1_4.0347.g7.t1, Beroe_ovata_Bova1_4.0312.g12.t1 Bova1_4.0312.g12.t1, Beroe_ovata_Bova1_4.0078.g13.t1 Bova1_4.0078.g13.t1, Beroe_ovata_Bova1_4.0002.g198.t1 Bova1_4.0002.g198.t1	Mnemiopsis_leidyi_ML002510a ML002510a								
+N20.HOG0000073	OG0000006	n436																							Beroe_ovata_Bova1_4.0164.g21.t1 Bova1_4.0164.g21.t1	Mnemiopsis_leidyi_ML03095a ML03095a, Mnemiopsis_leidyi_ML05046a ML05046a, Mnemiopsis_leidyi_ML216318a ML216318a, Mnemiopsis_leidyi_ML141715a ML141715a, Mnemiopsis_leidyi_ML218836a ML218836a								
+N20.HOG0000074	OG0000006	n636																								Mnemiopsis_leidyi_ML234530a ML234530a								
+N20.HOG0000075	OG0000006	n652																							Beroe_ovata_Bova1_4.1808.g1.t1 Bova1_4.1808.g1.t1	Mnemiopsis_leidyi_ML077215a ML077215a								
+N20.HOG0000076	OG0000006	n654																							Beroe_ovata_Bova1_4.0097.g29.t1 Bova1_4.0097.g29.t1									
+N20.HOG0000077	OG0000006	n656																							Beroe_ovata_Bova1_4.0097.g23.t1 Bova1_4.0097.g23.t1, Beroe_ovata_Bova1_4.0097.g22.t1 Bova1_4.0097.g22.t1	Mnemiopsis_leidyi_ML077218a ML077218a								
+N20.HOG0000078	OG0000006	n660																								Mnemiopsis_leidyi_ML00406a ML00406a								
+N20.HOG0000079	OG0000006	n671																							Beroe_ovata_Bova1_4.0170.g6.t2 Bova1_4.0170.g6.t2, Beroe_ovata_Bova1_4.0170.g6.t1 Bova1_4.0170.g6.t1	Mnemiopsis_leidyi_ML105420a ML105420a								
+N20.HOG0000080	OG0000006	n673																							Beroe_ovata_Bova1_4.0005.g63.t1 Bova1_4.0005.g63.t1, Beroe_ovata_Bova1_4.0005.g61.t1 Bova1_4.0005.g61.t1	Mnemiopsis_leidyi_ML105421a ML105421a								
+N20.HOG0000081	OG0000006	n675																								Mnemiopsis_leidyi_ML07118a ML07118a								
+N20.HOG0000082	OG0000006	n706																							Beroe_ovata_Bova1_4.0328.g2.t1 Bova1_4.0328.g2.t1	Mnemiopsis_leidyi_ML01677a ML01677a								
+N20.HOG0000083	OG0000006	n712																							Beroe_ovata_Bova1_4.0159.g20.t1 Bova1_4.0159.g20.t1									
+N20.HOG0000084	OG0000006	n715																							Beroe_ovata_Bova1_4.0012.g91.t1 Bova1_4.0012.g91.t1	Mnemiopsis_leidyi_ML07913a ML07913a								
+N20.HOG0000085	OG0000006	n716																							Beroe_ovata_Bova1_4.0133.g48.t1 Bova1_4.0133.g48.t1, Beroe_ovata_Bova1_4.2351.g1.t1 Bova1_4.2351.g1.t1, Beroe_ovata_Bova1_4.0133.g49.t1 Bova1_4.0133.g49.t1	Mnemiopsis_leidyi_ML274611a ML274611a								
+N20.HOG0000086	OG0000007	n57																							Beroe_ovata_Bova1_4.0498.g2.t1 Bova1_4.0498.g2.t1, Beroe_ovata_Bova1_4.0498.g2.t2 Bova1_4.0498.g2.t2, Beroe_ovata_Bova1_4.0498.g3.t1 Bova1_4.0498.g3.t1									
+N20.HOG0000087	OG0000007	n70																							Beroe_ovata_Bova1_4.0577.g3.t1 Bova1_4.0577.g3.t1									
+N20.HOG0000088	OG0000007	n86																								Mnemiopsis_leidyi_ML019111a ML019111a								
+N20.HOG0000089	OG0000007	n203																							Beroe_ovata_Bova1_4.0286.g1.t1 Bova1_4.0286.g1.t1	Mnemiopsis_leidyi_ML19192a ML19192a								
+N20.HOG0000090	OG0000007	n219																							Beroe_ovata_Bova1_4.0184.g4.t3 Bova1_4.0184.g4.t3, Beroe_ovata_Bova1_4.0184.g4.t2 Bova1_4.0184.g4.t2, Beroe_ovata_Bova1_4.0184.g4.t1 Bova1_4.0184.g4.t1									
+N20.HOG0000091	OG0000007	n604																							Beroe_ovata_Bova1_4.0012.g66.t1 Bova1_4.0012.g66.t1, Beroe_ovata_Bova1_4.0012.g65.t1 Bova1_4.0012.g65.t1									
+N20.HOG0000092	OG0000007	n630																							Beroe_ovata_Bova1_4.0242.g10.t1 Bova1_4.0242.g10.t1									
+N20.HOG0000093	OG0000007	n663																							Beroe_ovata_Bova1_4.0279.g17.t1 Bova1_4.0279.g17.t1									
+N20.HOG0000094	OG0000008	n26																								Mnemiopsis_leidyi_ML24144a ML24144a								
+N20.HOG0000095	OG0000008	n648																							Beroe_ovata_Bova1_4.0272.g1.t1 Bova1_4.0272.g1.t1, Beroe_ovata_Bova1_4.0272.g1.t2 Bova1_4.0272.g1.t2									
+N20.HOG0000096	OG0000008	n657																							Beroe_ovata_Bova1_4.0183.g11.t1 Bova1_4.0183.g11.t1	Mnemiopsis_leidyi_ML09866a ML09866a								
+N20.HOG0000097	OG0000008	n663																								Mnemiopsis_leidyi_ML128618a ML128618a								
+N20.HOG0000098	OG0000009	n59																							Beroe_ovata_Bova1_4.0295.g20.t1 Bova1_4.0295.g20.t1, Beroe_ovata_Bova1_4.0295.g17.t1 Bova1_4.0295.g17.t1	Mnemiopsis_leidyi_ML31401a ML31401a								
+N20.HOG0000099	OG0000009	n62																							Beroe_ovata_Bova1_4.0063.g33.t1 Bova1_4.0063.g33.t1	Mnemiopsis_leidyi_ML007435a ML007435a								
+N20.HOG0000100	OG0000009	n83																								Mnemiopsis_leidyi_ML016314a ML016314a								
+N20.HOG0000101	OG0000009	n255																							Beroe_ovata_Bova1_4.0270.g12.t1 Bova1_4.0270.g12.t1									
+N20.HOG0000102	OG0000010	n55																							Beroe_ovata_Bova1_4.0484.g4.t1 Bova1_4.0484.g4.t1, Beroe_ovata_Bova1_4.0484.g4.t2 Bova1_4.0484.g4.t2, Beroe_ovata_Bova1_4.0484.g4.t3 Bova1_4.0484.g4.t3, Beroe_ovata_Bova1_4.0502.g2.t2 Bova1_4.0502.g2.t2, Beroe_ovata_Bova1_4.0502.g2.t4 Bova1_4.0502.g2.t4, Beroe_ovata_Bova1_4.0502.g2.t3 Bova1_4.0502.g2.t3, Beroe_ovata_Bova1_4.0502.g2.t1 Bova1_4.0502.g2.t1									
+N20.HOG0000103	OG0000010	n72																							Beroe_ovata_Bova1_4.0001.g27.t1 Bova1_4.0001.g27.t1	Mnemiopsis_leidyi_ML073043a ML073043a								
+N20.HOG0000104	OG0000010	n144																							Beroe_ovata_Bova1_4.0400.g1.t1 Bova1_4.0400.g1.t1	Mnemiopsis_leidyi_ML14872a ML14872a								
+N20.HOG0000105	OG0000010	n220																							Beroe_ovata_Bova1_4.0065.g13.t2 Bova1_4.0065.g13.t2, Beroe_ovata_Bova1_4.0065.g13.t1 Bova1_4.0065.g13.t1	Mnemiopsis_leidyi_ML010533a ML010533a								
+N20.HOG0000106	OG0000010	n223																							Beroe_ovata_Bova1_4.0057.g8.t1 Bova1_4.0057.g8.t1									
+N20.HOG0000107	OG0000010	n311																							Beroe_ovata_Bova1_4.0203.g21.t1 Bova1_4.0203.g21.t1	Mnemiopsis_leidyi_ML004921a ML004921a								
+N20.HOG0000108	OG0000010	n411																							Beroe_ovata_Bova1_4.0344.g2.t1 Bova1_4.0344.g2.t1, Beroe_ovata_Bova1_4.0113.g30.t1 Bova1_4.0113.g30.t1, Beroe_ovata_Bova1_4.0113.g29.t1 Bova1_4.0113.g29.t1	Mnemiopsis_leidyi_ML00905a ML00905a								
+N20.HOG0000109	OG0000011	n5																							Beroe_ovata_Bova1_4.0040.g2.t2 Bova1_4.0040.g2.t2, Beroe_ovata_Bova1_4.0040.g2.t1 Bova1_4.0040.g2.t1									
+N20.HOG0000110	OG0000011	n43																								Mnemiopsis_leidyi_ML03051a ML03051a								
+N20.HOG0000111	OG0000011	n59																							Beroe_ovata_Bova1_4.0021.g15.t1 Bova1_4.0021.g15.t1	Mnemiopsis_leidyi_ML10905a ML10905a								
+N20.HOG0000112	OG0000011	n84																							Beroe_ovata_Bova1_4.0112.g17.t1 Bova1_4.0112.g17.t1									
+N20.HOG0000113	OG0000011	n87																								Mnemiopsis_leidyi_ML107912a ML107912a								
+N20.HOG0000114	OG0000011	n107																							Beroe_ovata_Bova1_4.0021.g7.t1 Bova1_4.0021.g7.t1									
+N20.HOG0000115	OG0000011	n203																								Mnemiopsis_leidyi_ML033235a ML033235a								
+N20.HOG0000116	OG0000011	n206																							Beroe_ovata_Bova1_4.0020.g34.t1 Bova1_4.0020.g34.t1	Mnemiopsis_leidyi_ML20267a ML20267a, Mnemiopsis_leidyi_ML20266a ML20266a, Mnemiopsis_leidyi_ML070825a ML070825a, Mnemiopsis_leidyi_ML017921a ML017921a								
+N20.HOG0000117	OG0000011	n237																							Beroe_ovata_Bova1_4.0473.g3.t2 Bova1_4.0473.g3.t2, Beroe_ovata_Bova1_4.0473.g3.t1 Bova1_4.0473.g3.t1									
+N20.HOG0000118	OG0000011	n397																							Beroe_ovata_Bova1_4.0302.g5.t1 Bova1_4.0302.g5.t1, Beroe_ovata_Bova1_4.0302.g5.t2 Bova1_4.0302.g5.t2, Beroe_ovata_Bova1_4.0010.g40.t1 Bova1_4.0010.g40.t1, Beroe_ovata_Bova1_4.0064.g23.t1 Bova1_4.0064.g23.t1, Beroe_ovata_Bova1_4.0064.g22.t1 Bova1_4.0064.g22.t1, Beroe_ovata_Bova1_4.0015.g70.t1 Bova1_4.0015.g70.t1, Beroe_ovata_Bova1_4.0015.g69.t1 Bova1_4.0015.g69.t1, Beroe_ovata_Bova1_4.0392.g3.t1 Bova1_4.0392.g3.t1, Beroe_ovata_Bova1_4.0080.g30.t1 Bova1_4.0080.g30.t1	Mnemiopsis_leidyi_ML040527a ML040527a, Mnemiopsis_leidyi_ML049626a ML049626a								
+N20.HOG0000119	OG0000011	n407																							Beroe_ovata_Bova1_4.0180.g2.t1 Bova1_4.0180.g2.t1	Mnemiopsis_leidyi_ML020038a ML020038a, Mnemiopsis_leidyi_ML24001a ML24001a, Mnemiopsis_leidyi_ML07111a ML07111a, Mnemiopsis_leidyi_ML30814a ML30814a, Mnemiopsis_leidyi_ML00872a ML00872a, Mnemiopsis_leidyi_ML120750a ML120750a, Mnemiopsis_leidyi_ML046712a ML046712a								
+N20.HOG0000120	OG0000011	n414																							Beroe_ovata_Bova1_4.0029.g24.t1 Bova1_4.0029.g24.t1	Mnemiopsis_leidyi_ML07112a ML07112a								
+N20.HOG0000121	OG0000011	n419																							Beroe_ovata_Bova1_4.0488.g3.t1 Bova1_4.0488.g3.t1, Beroe_ovata_Bova1_4.0129.g13.t1 Bova1_4.0129.g13.t1, Beroe_ovata_Bova1_4.0137.g25.t1 Bova1_4.0137.g25.t1	Mnemiopsis_leidyi_ML011731a ML011731a								
+N20.HOG0000122	OG0000011	n433																							Beroe_ovata_Bova1_4.0201.g17.t1 Bova1_4.0201.g17.t1	Mnemiopsis_leidyi_ML170111a ML170111a								
+N20.HOG0000123	OG0000011	n436																							Beroe_ovata_Bova1_4.0035.g21.t1 Bova1_4.0035.g21.t1									
+N20.HOG0000124	OG0000011	n444																								Mnemiopsis_leidyi_ML07915a ML07915a, Mnemiopsis_leidyi_ML156510a ML156510a								
+N20.HOG0000125	OG0000011	n447																								Mnemiopsis_leidyi_ML14971a ML14971a								
+N20.HOG0000126	OG0000011	n450																								Mnemiopsis_leidyi_ML311627a ML311627a								
+N20.HOG0000127	OG0000011	n451																								Mnemiopsis_leidyi_ML13771a ML13771a, Mnemiopsis_leidyi_ML011717a ML011717a, Mnemiopsis_leidyi_ML011718a ML011718a								
+N20.HOG0000128	OG0000011	n455																							Beroe_ovata_Bova1_4.0169.g24.t1 Bova1_4.0169.g24.t1	Mnemiopsis_leidyi_ML00645a ML00645a								
+N20.HOG0000129	OG0000012	n4																								Mnemiopsis_leidyi_ML31161a ML31161a								
+N20.HOG0000130	OG0000012	n6																							Beroe_ovata_Bova1_4.0198.g22.t1 Bova1_4.0198.g22.t1									
+N20.HOG0000131	OG0000012	n10																							Beroe_ovata_Bova1_4.0198.g23.t1 Bova1_4.0198.g23.t1	Mnemiopsis_leidyi_ML03227a ML03227a								
+N20.HOG0000132	OG0000012	n11																							Beroe_ovata_Bova1_4.0322.g6.t1 Bova1_4.0322.g6.t1	Mnemiopsis_leidyi_ML231816a ML231816a								
+N20.HOG0000133	OG0000012	n274																							Beroe_ovata_Bova1_4.0055.g43.t1 Bova1_4.0055.g43.t1	Mnemiopsis_leidyi_ML065752a ML065752a, Mnemiopsis_leidyi_ML12185a ML12185a								
+N20.HOG0000134	OG0000012	n279																							Beroe_ovata_Bova1_4.0090.g28.t2 Bova1_4.0090.g28.t2, Beroe_ovata_Bova1_4.0090.g28.t1 Bova1_4.0090.g28.t1, Beroe_ovata_Bova1_4.0548.g1.t2 Bova1_4.0548.g1.t2, Beroe_ovata_Bova1_4.0548.g1.t1 Bova1_4.0548.g1.t1	Mnemiopsis_leidyi_ML11032a ML11032a, Mnemiopsis_leidyi_ML022012a ML022012a, Mnemiopsis_leidyi_ML11033a ML11033a								
+N20.HOG0000135	OG0000012	n287																								Mnemiopsis_leidyi_ML41863a ML41863a								
+N20.HOG0000136	OG0000012	n298																							Beroe_ovata_Bova1_4.0289.g14.t1 Bova1_4.0289.g14.t1, Beroe_ovata_Bova1_4.1104.g1.t1 Bova1_4.1104.g1.t1, Beroe_ovata_Bova1_4.0289.g13.t1 Bova1_4.0289.g13.t1	Mnemiopsis_leidyi_ML03131a ML03131a								
+N20.HOG0000137	OG0000012	n308																								Mnemiopsis_leidyi_ML14247a ML14247a, Mnemiopsis_leidyi_ML14246a ML14246a								
+N20.HOG0000138	OG0000012	n310																								Mnemiopsis_leidyi_ML154123a ML154123a								
+N20.HOG0000139	OG0000012	n311																								Mnemiopsis_leidyi_ML033232a ML033232a, Mnemiopsis_leidyi_ML033230a ML033230a								
+N20.HOG0000140	OG0000012	n314																							Beroe_ovata_Bova1_4.0022.g13.t1 Bova1_4.0022.g13.t1	Mnemiopsis_leidyi_ML22301a ML22301a, Mnemiopsis_leidyi_ML173711a ML173711a								
+N20.HOG0000141	OG0000012	n318																								Mnemiopsis_leidyi_ML009817a ML009817a, Mnemiopsis_leidyi_ML463511a ML463511a								
+N20.HOG0000142	OG0000012	n323																								Mnemiopsis_leidyi_ML01517a ML01517a								
+N20.HOG0000143	OG0000012	n325																							Beroe_ovata_Bova1_4.0002.g147.t1 Bova1_4.0002.g147.t1, Beroe_ovata_Bova1_4.0002.g148.t1 Bova1_4.0002.g148.t1	Mnemiopsis_leidyi_ML145831a ML145831a								
+N20.HOG0000144	OG0000012	n332																							Beroe_ovata_Bova1_4.0016.g45.t1 Bova1_4.0016.g45.t1, Beroe_ovata_Bova1_4.0334.g4.t1 Bova1_4.0334.g4.t1, Beroe_ovata_Bova1_4.0334.g5.t1 Bova1_4.0334.g5.t1	Mnemiopsis_leidyi_ML019233a ML019233a								
+N20.HOG0000145	OG0000012	n336																							Beroe_ovata_Bova1_4.0016.g46.t1 Bova1_4.0016.g46.t1	Mnemiopsis_leidyi_ML07218a ML07218a								
+N20.HOG0000146	OG0000012	n338																							Beroe_ovata_Bova1_4.0040.g53.t1 Bova1_4.0040.g53.t1, Beroe_ovata_Bova1_4.0040.g52.t1 Bova1_4.0040.g52.t1									
+N20.HOG0000147	OG0000012	n340																								Mnemiopsis_leidyi_ML005212a ML005212a								
+N20.HOG0000148	OG0000012	n343																								Mnemiopsis_leidyi_ML14013a ML14013a, Mnemiopsis_leidyi_ML005213a ML005213a								
+N20.HOG0000149	OG0000012	n346																							Beroe_ovata_Bova1_4.0021.g74.t1 Bova1_4.0021.g74.t1	Mnemiopsis_leidyi_ML048120a ML048120a								
+N20.HOG0000150	OG0000012	n348																							Beroe_ovata_Bova1_4.0206.g5.t1 Bova1_4.0206.g5.t1, Beroe_ovata_Bova1_4.0206.g4.t1 Bova1_4.0206.g4.t1	Mnemiopsis_leidyi_ML055015a ML055015a								
+N20.HOG0000151	OG0000012	n352																							Beroe_ovata_Bova1_4.0042.g21.t1 Bova1_4.0042.g21.t1, Beroe_ovata_Bova1_4.0042.g22.t1 Bova1_4.0042.g22.t1, Beroe_ovata_Bova1_4.0602.g3.t1 Bova1_4.0602.g3.t1	Mnemiopsis_leidyi_ML18936a ML18936a								
+N20.HOG0000152	OG0000012	n356																							Beroe_ovata_Bova1_4.0463.g7.t2 Bova1_4.0463.g7.t2, Beroe_ovata_Bova1_4.0463.g7.t1 Bova1_4.0463.g7.t1, Beroe_ovata_Bova1_4.0016.g72.t1 Bova1_4.0016.g72.t1	Mnemiopsis_leidyi_ML00638a ML00638a, Mnemiopsis_leidyi_ML093517a ML093517a								
+N20.HOG0000153	OG0000012	n361																							Beroe_ovata_Bova1_4.0299.g11.t1 Bova1_4.0299.g11.t1	Mnemiopsis_leidyi_ML223525a ML223525a, Mnemiopsis_leidyi_ML32223a ML32223a								
+N20.HOG0000154	OG0000012	n366																							Beroe_ovata_Bova1_4.0496.g4.t1 Bova1_4.0496.g4.t1, Beroe_ovata_Bova1_4.0048.g63.t1 Bova1_4.0048.g63.t1, Beroe_ovata_Bova1_4.0048.g62.t1 Bova1_4.0048.g62.t1	Mnemiopsis_leidyi_ML189317a ML189317a								
+N20.HOG0000155	OG0000012	n369																							Beroe_ovata_Bova1_4.0484.g2.t1 Bova1_4.0484.g2.t1	Mnemiopsis_leidyi_ML00495a ML00495a								
+N20.HOG0000156	OG0000012	n396																								Mnemiopsis_leidyi_ML020019a ML020019a								
+N20.HOG0000157	OG0000013	n38																							Beroe_ovata_Bova1_4.0066.g65.t1 Bova1_4.0066.g65.t1	Mnemiopsis_leidyi_ML101013a ML101013a								
+N20.HOG0000158	OG0000013	n237																							Beroe_ovata_Bova1_4.0140.g20.t1 Bova1_4.0140.g20.t1	Mnemiopsis_leidyi_ML06021a ML06021a								
+N20.HOG0000159	OG0000013	n360																							Beroe_ovata_Bova1_4.0030.g66.t1 Bova1_4.0030.g66.t1	Mnemiopsis_leidyi_ML07528a ML07528a								
+N20.HOG0000160	OG0000013	n364																							Beroe_ovata_Bova1_4.0064.g51.t1 Bova1_4.0064.g51.t1, Beroe_ovata_Bova1_4.0064.g52.t1 Bova1_4.0064.g52.t1	Mnemiopsis_leidyi_ML01051a ML01051a								
+N20.HOG0000161	OG0000015	n64																							Beroe_ovata_Bova1_4.0052.g5.t1 Bova1_4.0052.g5.t1, Beroe_ovata_Bova1_4.0628.g1.t1 Bova1_4.0628.g1.t1	Mnemiopsis_leidyi_ML25991a ML25991a								
+N20.HOG0000162	OG0000015	n72																							Beroe_ovata_Bova1_4.0080.g8.t1 Bova1_4.0080.g8.t1, Beroe_ovata_Bova1_4.0039.g24.t1 Bova1_4.0039.g24.t1, Beroe_ovata_Bova1_4.0237.g3.t1 Bova1_4.0237.g3.t1, Beroe_ovata_Bova1_4.0030.g78.t1 Bova1_4.0030.g78.t1	Mnemiopsis_leidyi_ML17012a ML17012a								
+N20.HOG0000163	OG0000016	n83																							Beroe_ovata_Bova1_4.0017.g73.t1 Bova1_4.0017.g73.t1	Mnemiopsis_leidyi_ML282519a ML282519a								
+N20.HOG0000164	OG0000016	n96																							Beroe_ovata_Bova1_4.0289.g3.t1 Bova1_4.0289.g3.t1, Beroe_ovata_Bova1_4.0289.g2.t1 Bova1_4.0289.g2.t1	Mnemiopsis_leidyi_ML22971a ML22971a								
+N20.HOG0000165	OG0000016	n330																							Beroe_ovata_Bova1_4.0108.g30.t1 Bova1_4.0108.g30.t1, Beroe_ovata_Bova1_4.0236.g7.t1 Bova1_4.0236.g7.t1	Mnemiopsis_leidyi_ML13379a ML13379a, Mnemiopsis_leidyi_ML073224a ML073224a								
+N20.HOG0000166	OG0000016	n342																							Beroe_ovata_Bova1_4.0254.g4.t1 Bova1_4.0254.g4.t1	Mnemiopsis_leidyi_ML305524a ML305524a								
+N20.HOG0000167	OG0000016	n344																							Beroe_ovata_Bova1_4.0289.g10.t1 Bova1_4.0289.g10.t1, Beroe_ovata_Bova1_4.0289.g9.t1 Bova1_4.0289.g9.t1	Mnemiopsis_leidyi_ML227810a ML227810a, Mnemiopsis_leidyi_ML14713a ML14713a, Mnemiopsis_leidyi_ML14714a ML14714a, Mnemiopsis_leidyi_ML030215a ML030215a, Mnemiopsis_leidyi_ML35325a ML35325a								
+N20.HOG0000168	OG0000016	n351																							Beroe_ovata_Bova1_4.3261.g1.t1 Bova1_4.3261.g1.t1	Mnemiopsis_leidyi_ML110511a ML110511a, Mnemiopsis_leidyi_ML33825a ML33825a								
+N20.HOG0000169	OG0000016	n353																							Beroe_ovata_Bova1_4.0098.g32.t1 Bova1_4.0098.g32.t1	Mnemiopsis_leidyi_ML11342a ML11342a, Mnemiopsis_leidyi_ML104211a ML104211a, Mnemiopsis_leidyi_ML218938a ML218938a								
+N20.HOG0000170	OG0000016	n358																							Beroe_ovata_Bova1_4.0028.g5.t1 Bova1_4.0028.g5.t1	Mnemiopsis_leidyi_ML077631a ML077631a								
+N20.HOG0000171	OG0000016	n366																							Beroe_ovata_Bova1_4.0001.g168.t1 Bova1_4.0001.g168.t1	Mnemiopsis_leidyi_ML175611a ML175611a, Mnemiopsis_leidyi_ML19191a ML19191a								
+N20.HOG0000172	OG0000017	n4																								Mnemiopsis_leidyi_ML04477a ML04477a								
+N20.HOG0000173	OG0000017	n6																							Beroe_ovata_Bova1_4.0122.g5.t1 Bova1_4.0122.g5.t1, Beroe_ovata_Bova1_4.0122.g4.t1 Bova1_4.0122.g4.t1	Mnemiopsis_leidyi_ML025013a ML025013a								
+N20.HOG0000174	OG0000017	n9																							Beroe_ovata_Bova1_4.0025.g11.t1 Bova1_4.0025.g11.t1	Mnemiopsis_leidyi_ML005334a ML005334a, Mnemiopsis_leidyi_ML098613a ML098613a, Mnemiopsis_leidyi_ML098614a ML098614a								
+N20.HOG0000175	OG0000017	n298																							Beroe_ovata_Bova1_4.0021.g29.t1 Bova1_4.0021.g29.t1	Mnemiopsis_leidyi_ML023111a ML023111a, Mnemiopsis_leidyi_ML200228a ML200228a								
+N20.HOG0000176	OG0000017	n302																							Beroe_ovata_Bova1_4.0101.g29.t1 Bova1_4.0101.g29.t1	Mnemiopsis_leidyi_ML200229a ML200229a								
+N20.HOG0000177	OG0000018	n63																								Mnemiopsis_leidyi_ML02231a ML02231a, Mnemiopsis_leidyi_ML02243a ML02243a, Mnemiopsis_leidyi_ML006919a ML006919a, Mnemiopsis_leidyi_ML096926a ML096926a								
+N20.HOG0000178	OG0000018	n298																							Beroe_ovata_Bova1_4.0023.g78.t1 Bova1_4.0023.g78.t1, Beroe_ovata_Bova1_4.0023.g78.t2 Bova1_4.0023.g78.t2	Mnemiopsis_leidyi_ML044129a ML044129a								
+N20.HOG0000179	OG0000019	n11																							Beroe_ovata_Bova1_4.0045.g60.t1 Bova1_4.0045.g60.t1	Mnemiopsis_leidyi_ML368911a ML368911a, Mnemiopsis_leidyi_ML368915a ML368915a								
+N20.HOG0000180	OG0000019	n19																							Beroe_ovata_Bova1_4.0002.g73.t1 Bova1_4.0002.g73.t1, Beroe_ovata_Bova1_4.0002.g74.t1 Bova1_4.0002.g74.t1	Mnemiopsis_leidyi_ML102235a ML102235a								
+N20.HOG0000181	OG0000019	n32																							Beroe_ovata_Bova1_4.0050.g21.t1 Bova1_4.0050.g21.t1, Beroe_ovata_Bova1_4.0050.g20.t1 Bova1_4.0050.g20.t1	Mnemiopsis_leidyi_ML35889a ML35889a								
+N20.HOG0000182	OG0000019	n44																							Beroe_ovata_Bova1_4.0118.g26.t1 Bova1_4.0118.g26.t1	Mnemiopsis_leidyi_ML19322b ML19322b								
+N20.HOG0000183	OG0000019	n103																							Beroe_ovata_Bova1_4.0186.g10.t1 Bova1_4.0186.g10.t1	Mnemiopsis_leidyi_ML200252a ML200252a, Mnemiopsis_leidyi_ML200253a ML200253a								
+N20.HOG0000184	OG0000019	n118																							Beroe_ovata_Bova1_4.0040.g35.t3 Bova1_4.0040.g35.t3, Beroe_ovata_Bova1_4.0040.g35.t2 Bova1_4.0040.g35.t2	Mnemiopsis_leidyi_ML218835a ML218835a								
+N20.HOG0000185	OG0000019	n316																							Beroe_ovata_Bova1_4.0137.g24.t1 Bova1_4.0137.g24.t1, Beroe_ovata_Bova1_4.0137.g23.t1 Bova1_4.0137.g23.t1	Mnemiopsis_leidyi_ML34871b ML34871b								
+N20.HOG0000186	OG0000021	n2																							Beroe_ovata_Bova1_4.0007.g25.t2 Bova1_4.0007.g25.t2, Beroe_ovata_Bova1_4.0007.g25.t3 Bova1_4.0007.g25.t3, Beroe_ovata_Bova1_4.0007.g25.t5 Bova1_4.0007.g25.t5, Beroe_ovata_Bova1_4.0007.g25.t4 Bova1_4.0007.g25.t4, Beroe_ovata_Bova1_4.0007.g25.t1 Bova1_4.0007.g25.t1	Mnemiopsis_leidyi_ML06733a ML06733a, Mnemiopsis_leidyi_ML06732a ML06732a								
+N20.HOG0000187	OG0000021	n167																							Beroe_ovata_Bova1_4.0442.g1.t2 Bova1_4.0442.g1.t2, Beroe_ovata_Bova1_4.0442.g1.t1 Bova1_4.0442.g1.t1	Mnemiopsis_leidyi_ML094333a ML094333a								
+N20.HOG0000188	OG0000021	n170																							Beroe_ovata_Bova1_4.0288.g8.t2 Bova1_4.0288.g8.t2, Beroe_ovata_Bova1_4.0288.g8.t3 Bova1_4.0288.g8.t3, Beroe_ovata_Bova1_4.0288.g8.t4 Bova1_4.0288.g8.t4, Beroe_ovata_Bova1_4.0288.g8.t1 Bova1_4.0288.g8.t1	Mnemiopsis_leidyi_ML03664a ML03664a								
+N20.HOG0000189	OG0000021	n177																							Beroe_ovata_Bova1_4.0072.g25.t1 Bova1_4.0072.g25.t1	Mnemiopsis_leidyi_ML082718a ML082718a								
+N20.HOG0000190	OG0000021	n192																							Beroe_ovata_Bova1_4.0018.g74.t1 Bova1_4.0018.g74.t1	Mnemiopsis_leidyi_ML02274a ML02274a								
+N20.HOG0000191	OG0000021	n194																							Beroe_ovata_Bova1_4.0226.g12.t1 Bova1_4.0226.g12.t1									
+N20.HOG0000192	OG0000022	n111																								Mnemiopsis_leidyi_ML01536a ML01536a								
+N20.HOG0000193	OG0000022	n113																							Beroe_ovata_Bova1_4.0785.g1.t1 Bova1_4.0785.g1.t1	Mnemiopsis_leidyi_ML00134a ML00134a								
+N20.HOG0000194	OG0000022	n116																							Beroe_ovata_Bova1_4.0354.g2.t1 Bova1_4.0354.g2.t1, Beroe_ovata_Bova1_4.0085.g13.t1 Bova1_4.0085.g13.t1	Mnemiopsis_leidyi_ML139112a ML139112a								
+N20.HOG0000195	OG0000022	n122																							Beroe_ovata_Bova1_4.0298.g2.t1 Bova1_4.0298.g2.t1	Mnemiopsis_leidyi_ML148937a ML148937a								
+N20.HOG0000196	OG0000022	n125																							Beroe_ovata_Bova1_4.0337.g7.t1 Bova1_4.0337.g7.t1, Beroe_ovata_Bova1_4.0337.g7.t2 Bova1_4.0337.g7.t2	Mnemiopsis_leidyi_ML08207a ML08207a								
+N20.HOG0000197	OG0000022	n128																								Mnemiopsis_leidyi_ML03242a ML03242a								
+N20.HOG0000198	OG0000023	n6																							Beroe_ovata_Bova1_4.0174.g1.t1 Bova1_4.0174.g1.t1, Beroe_ovata_Bova1_4.0174.g2.t1 Bova1_4.0174.g2.t1, Beroe_ovata_Bova1_4.0076.g65.t1 Bova1_4.0076.g65.t1	Mnemiopsis_leidyi_ML069122a ML069122a								
+N20.HOG0000199	OG0000023	n10																							Beroe_ovata_Bova1_4.0120.g4.t1 Bova1_4.0120.g4.t1, Beroe_ovata_Bova1_4.0595.g2.t1 Bova1_4.0595.g2.t1, Beroe_ovata_Bova1_4.0008.g40.t1 Bova1_4.0008.g40.t1	Mnemiopsis_leidyi_ML05372a ML05372a								
+N20.HOG0000200	OG0000024	n12																								Mnemiopsis_leidyi_ML327428a ML327428a, Mnemiopsis_leidyi_ML37461a ML37461a								
+N20.HOG0000201	OG0000024	n151																							Beroe_ovata_Bova1_4.0234.g25.t1 Bova1_4.0234.g25.t1, Beroe_ovata_Bova1_4.0234.g20.t2 Bova1_4.0234.g20.t2, Beroe_ovata_Bova1_4.0234.g20.t1 Bova1_4.0234.g20.t1	Mnemiopsis_leidyi_ML03706a ML03706a								
+N20.HOG0000202	OG0000024	n158																							Beroe_ovata_Bova1_4.0002.g2.t1 Bova1_4.0002.g2.t1, Beroe_ovata_Bova1_4.0002.g2.t3 Bova1_4.0002.g2.t3, Beroe_ovata_Bova1_4.0002.g2.t2 Bova1_4.0002.g2.t2	Mnemiopsis_leidyi_ML10106a ML10106a								
+N20.HOG0000203	OG0000024	n163																							Beroe_ovata_Bova1_4.0008.g32.t1 Bova1_4.0008.g32.t1	Mnemiopsis_leidyi_ML07116a ML07116a								
+N20.HOG0000204	OG0000028	n149																							Beroe_ovata_Bova1_4.0039.g12.t1 Bova1_4.0039.g12.t1, Beroe_ovata_Bova1_4.0039.g13.t1 Bova1_4.0039.g13.t1	Mnemiopsis_leidyi_ML18175a ML18175a								
+N20.HOG0000205	OG0000028	n154																								Mnemiopsis_leidyi_ML25069a ML25069a								
+N20.HOG0000206	OG0000028	n157																							Beroe_ovata_Bova1_4.0028.g12.t1 Bova1_4.0028.g12.t1, Beroe_ovata_Bova1_4.0028.g11.t1 Bova1_4.0028.g11.t1	Mnemiopsis_leidyi_ML034334a ML034334a, Mnemiopsis_leidyi_ML18198a ML18198a, Mnemiopsis_leidyi_ML034335a ML034335a								
+N20.HOG0000207	OG0000028	n162																							Beroe_ovata_Bova1_4.0028.g10.t1 Bova1_4.0028.g10.t1	Mnemiopsis_leidyi_ML034336a ML034336a, Mnemiopsis_leidyi_ML18197a ML18197a, Mnemiopsis_leidyi_ML034337a ML034337a								
+N20.HOG0000208	OG0000028	n165																							Beroe_ovata_Bova1_4.0039.g14.t1 Bova1_4.0039.g14.t1, Beroe_ovata_Bova1_4.0039.g15.t1 Bova1_4.0039.g15.t1	Mnemiopsis_leidyi_ML16441a ML16441a								
+N20.HOG0000209	OG0000028	n170																								Mnemiopsis_leidyi_ML17502a ML17502a								
+N20.HOG0000210	OG0000028	n172																								Mnemiopsis_leidyi_ML17501a ML17501a								
+N20.HOG0000211	OG0000028	n174																								Mnemiopsis_leidyi_ML17504a ML17504a								
+N20.HOG0000212	OG0000028	n176																								Mnemiopsis_leidyi_ML17503a ML17503a								
+N20.HOG0000213	OG0000028	n178																							Beroe_ovata_Bova1_4.0049.g25.t1 Bova1_4.0049.g25.t1	Mnemiopsis_leidyi_ML047918a ML047918a								
+N20.HOG0000214	OG0000030	n52																							Beroe_ovata_Bova1_4.0151.g33.t1 Bova1_4.0151.g33.t1, Beroe_ovata_Bova1_4.0151.g32.t1 Bova1_4.0151.g32.t1	Mnemiopsis_leidyi_ML029519a ML029519a								
+N20.HOG0000215	OG0000030	n56																								Mnemiopsis_leidyi_ML306123a ML306123a								
+N20.HOG0000216	OG0000030	n58																							Beroe_ovata_Bova1_4.0256.g28.t2 Bova1_4.0256.g28.t2, Beroe_ovata_Bova1_4.0256.g28.t1 Bova1_4.0256.g28.t1	Mnemiopsis_leidyi_ML010117a ML010117a, Mnemiopsis_leidyi_ML17408a ML17408a, Mnemiopsis_leidyi_ML17409a ML17409a								
+N20.HOG0000217	OG0000030	n151																							Beroe_ovata_Bova1_4.0003.g115.t1 Bova1_4.0003.g115.t1, Beroe_ovata_Bova1_4.0003.g114.t1 Bova1_4.0003.g114.t1	Mnemiopsis_leidyi_ML03054a ML03054a								
+N20.HOG0000218	OG0000030	n156																							Beroe_ovata_Bova1_4.0006.g133.t1 Bova1_4.0006.g133.t1	Mnemiopsis_leidyi_ML02305a ML02305a, Mnemiopsis_leidyi_ML021121a ML021121a								
+N20.HOG0000219	OG0000034	n4																							Beroe_ovata_Bova1_4.0642.g1.t1 Bova1_4.0642.g1.t1, Beroe_ovata_Bova1_4.0049.g39.t3 Bova1_4.0049.g39.t3, Beroe_ovata_Bova1_4.0049.g39.t4 Bova1_4.0049.g39.t4, Beroe_ovata_Bova1_4.0049.g39.t5 Bova1_4.0049.g39.t5, Beroe_ovata_Bova1_4.0049.g39.t1 Bova1_4.0049.g39.t1, Beroe_ovata_Bova1_4.0049.g39.t2 Bova1_4.0049.g39.t2	Mnemiopsis_leidyi_ML258254a ML258254a								
+N20.HOG0000220	OG0000034	n87																							Beroe_ovata_Bova1_4.0010.g50.t1 Bova1_4.0010.g50.t1, Beroe_ovata_Bova1_4.0010.g51.t1 Bova1_4.0010.g51.t1	Mnemiopsis_leidyi_ML04262a ML04262a								
+N20.HOG0000221	OG0000036	n1																							Beroe_ovata_Bova1_4.0040.g35.t1 Bova1_4.0040.g35.t1	Mnemiopsis_leidyi_ML11227a ML11227a								
+N20.HOG0000222	OG0000039	n79																								Mnemiopsis_leidyi_ML267515a ML267515a								
+N20.HOG0000223	OG0000041	n6																							Beroe_ovata_Bova1_4.0006.g146.t1 Bova1_4.0006.g146.t1									
+N20.HOG0000224	OG0000041	n19																							Beroe_ovata_Bova1_4.0027.g44.t1 Bova1_4.0027.g44.t1	Mnemiopsis_leidyi_ML21898a ML21898a								
+N20.HOG0000225	OG0000041	n101																							Beroe_ovata_Bova1_4.0027.g62.t1 Bova1_4.0027.g62.t1, Beroe_ovata_Bova1_4.0027.g62.t3 Bova1_4.0027.g62.t3	Mnemiopsis_leidyi_ML08024a ML08024a								
+N20.HOG0000226	OG0000042	n3																							Beroe_ovata_Bova1_4.0521.g2.t1 Bova1_4.0521.g2.t1, Beroe_ovata_Bova1_4.2632.g1.t1 Bova1_4.2632.g1.t1									
+N20.HOG0000227	OG0000042	n15																							Beroe_ovata_Bova1_4.0050.g30.t2 Bova1_4.0050.g30.t2, Beroe_ovata_Bova1_4.0050.g30.t1 Bova1_4.0050.g30.t1	Mnemiopsis_leidyi_ML044119a ML044119a								
+N20.HOG0000228	OG0000042	n19																							Beroe_ovata_Bova1_4.0822.g1.t1 Bova1_4.0822.g1.t1									
+N20.HOG0000229	OG0000043	n25																								Mnemiopsis_leidyi_ML115921a ML115921a								
+N20.HOG0000230	OG0000043	n26																								Mnemiopsis_leidyi_ML07247a ML07247a								
+N20.HOG0000231	OG0000043	n30																								Mnemiopsis_leidyi_ML29887a ML29887a, Mnemiopsis_leidyi_ML04041a ML04041a, Mnemiopsis_leidyi_ML016362a ML016362a, Mnemiopsis_leidyi_ML234024a ML234024a								
+N20.HOG0000232	OG0000043	n46																								Mnemiopsis_leidyi_ML261720a ML261720a								
+N20.HOG0000233	OG0000044	n24																								Mnemiopsis_leidyi_ML03126a ML03126a								
+N20.HOG0000234	OG0000044	n25																							Beroe_ovata_Bova1_4.0038.g71.t1 Bova1_4.0038.g71.t1	Mnemiopsis_leidyi_ML25826a ML25826a								
+N20.HOG0000235	OG0000045	n57																							Beroe_ovata_Bova1_4.0013.g40.t1 Bova1_4.0013.g40.t1, Beroe_ovata_Bova1_4.0013.g39.t1 Bova1_4.0013.g39.t1	Mnemiopsis_leidyi_ML097515a ML097515a								
+N20.HOG0000236	OG0000045	n62																							Beroe_ovata_Bova1_4.0938.g1.t1 Bova1_4.0938.g1.t1									
+N20.HOG0000237	OG0000048	n20																								Mnemiopsis_leidyi_ML015611a ML015611a								
+N20.HOG0000238	OG0000049	n3																							Beroe_ovata_Bova1_4.0343.g5.t1 Bova1_4.0343.g5.t1, Beroe_ovata_Bova1_4.0343.g5.t2 Bova1_4.0343.g5.t2	Mnemiopsis_leidyi_ML21869a ML21869a								
+N20.HOG0000239	OG0000049	n93																							Beroe_ovata_Bova1_4.0316.g2.t1 Bova1_4.0316.g2.t1, Beroe_ovata_Bova1_4.1059.g2.t1 Bova1_4.1059.g2.t1, Beroe_ovata_Bova1_4.0316.g1.t2 Bova1_4.0316.g1.t2, Beroe_ovata_Bova1_4.0316.g1.t1 Bova1_4.0316.g1.t1	Mnemiopsis_leidyi_ML015721a ML015721a								
+N20.HOG0000240	OG0000049	n97																							Beroe_ovata_Bova1_4.0027.g58.t1 Bova1_4.0027.g58.t1, Beroe_ovata_Bova1_4.0027.g59.t1 Bova1_4.0027.g59.t1	Mnemiopsis_leidyi_ML083035a ML083035a								
+N20.HOG0000241	OG0000051	n85																							Beroe_ovata_Bova1_4.0093.g5.t1 Bova1_4.0093.g5.t1	Mnemiopsis_leidyi_ML128420a ML128420a, Mnemiopsis_leidyi_ML128419a ML128419a								
+N20.HOG0000242	OG0000051	n92																							Beroe_ovata_Bova1_4.0012.g17.t2 Bova1_4.0012.g17.t2, Beroe_ovata_Bova1_4.0012.g17.t1 Bova1_4.0012.g17.t1	Mnemiopsis_leidyi_ML011744a ML011744a								
+N20.HOG0000243	OG0000051	n95																								Mnemiopsis_leidyi_ML279516a ML279516a								
+N20.HOG0000244	OG0000051	n96																								Mnemiopsis_leidyi_ML15153a ML15153a								
+N20.HOG0000245	OG0000051	n97																							Beroe_ovata_Bova1_4.0023.g89.t1 Bova1_4.0023.g89.t1	Mnemiopsis_leidyi_ML170514a ML170514a, Mnemiopsis_leidyi_ML358829a ML358829a								
+N20.HOG0000246	OG0000051	n101																								Mnemiopsis_leidyi_ML023017a ML023017a								
+N20.HOG0000247	OG0000052	n52																								Mnemiopsis_leidyi_ML204430a ML204430a								
+N20.HOG0000248	OG0000052	n53																								Mnemiopsis_leidyi_ML204429a ML204429a								
+N20.HOG0000249	OG0000052	n54																								Mnemiopsis_leidyi_ML020113a ML020113a, Mnemiopsis_leidyi_ML50011a ML50011a, Mnemiopsis_leidyi_ML282520a ML282520a								
+N20.HOG0000250	OG0000053	n0																							Beroe_ovata_Bova1_4.0359.g4.t1 Bova1_4.0359.g4.t1	Mnemiopsis_leidyi_ML11053a ML11053a								
+N20.HOG0000251	OG0000054	n1																							Beroe_ovata_Bova1_4.0046.g52.t1 Bova1_4.0046.g52.t1	Mnemiopsis_leidyi_ML095316a ML095316a								
+N20.HOG0000252	OG0000058	n4																							Beroe_ovata_Bova1_4.0217.g1.t1 Bova1_4.0217.g1.t1, Beroe_ovata_Bova1_4.0047.g1.t1 Bova1_4.0047.g1.t1	Mnemiopsis_leidyi_ML15451a ML15451a								
+N20.HOG0000253	OG0000058	n7																							Beroe_ovata_Bova1_4.0230.g20.t1 Bova1_4.0230.g20.t1	Mnemiopsis_leidyi_ML048618a ML048618a								
+N20.HOG0000254	OG0000058	n8																							Beroe_ovata_Bova1_4.0047.g4.t1 Bova1_4.0047.g4.t1	Mnemiopsis_leidyi_ML048623a ML048623a								
+N20.HOG0000255	OG0000061	n1																							Beroe_ovata_Bova1_4.0085.g17.t2 Bova1_4.0085.g17.t2, Beroe_ovata_Bova1_4.0085.g17.t1 Bova1_4.0085.g17.t1, Beroe_ovata_Bova1_4.0085.g17.t5 Bova1_4.0085.g17.t5, Beroe_ovata_Bova1_4.0085.g17.t3 Bova1_4.0085.g17.t3, Beroe_ovata_Bova1_4.0085.g17.t4 Bova1_4.0085.g17.t4	Mnemiopsis_leidyi_ML07526a ML07526a, Mnemiopsis_leidyi_ML07523a ML07523a								
+N20.HOG0000256	OG0000061	n39																							Beroe_ovata_Bova1_4.0166.g1.t2 Bova1_4.0166.g1.t2, Beroe_ovata_Bova1_4.0166.g1.t1 Bova1_4.0166.g1.t1	Mnemiopsis_leidyi_ML072819a ML072819a								
+N20.HOG0000257	OG0000062	n22																								Mnemiopsis_leidyi_ML085714a ML085714a								
+N20.HOG0000258	OG0000063	n39																								Mnemiopsis_leidyi_ML073718a ML073718a								
+N20.HOG0000259	OG0000065	n5																							Beroe_ovata_Bova1_4.0102.g7.t1 Bova1_4.0102.g7.t1, Beroe_ovata_Bova1_4.0102.g8.t1 Bova1_4.0102.g8.t1	Mnemiopsis_leidyi_ML14244a ML14244a								
+N20.HOG0000260	OG0000070	n1																							Beroe_ovata_Bova1_4.0502.g2.t5 Bova1_4.0502.g2.t5	Mnemiopsis_leidyi_ML02361a ML02361a								
+N20.HOG0000261	OG0000070	n32																							Beroe_ovata_Bova1_4.0072.g12.t1 Bova1_4.0072.g12.t1									
+N20.HOG0000262	OG0000073	n0																							Beroe_ovata_Bova1_4.0225.g2.t1 Bova1_4.0225.g2.t1									
+N20.HOG0000263	OG0000075	n34																							Beroe_ovata_Bova1_4.0018.g38.t1 Bova1_4.0018.g38.t1									
+N20.HOG0000264	OG0000076	n0																							Beroe_ovata_Bova1_4.0005.g52.t1 Bova1_4.0005.g52.t1	Mnemiopsis_leidyi_ML078816a ML078816a								
+N20.HOG0000265	OG0000078	n34																							Beroe_ovata_Bova1_4.0097.g25.t1 Bova1_4.0097.g25.t1									
+N20.HOG0000266	OG0000078	n39																							Beroe_ovata_Bova1_4.0199.g16.t1 Bova1_4.0199.g16.t1, Beroe_ovata_Bova1_4.0018.g111.t1 Bova1_4.0018.g111.t1, Beroe_ovata_Bova1_4.0122.g38.t1 Bova1_4.0122.g38.t1									
+N20.HOG0000267	OG0000078	n42																							Beroe_ovata_Bova1_4.0116.g23.t1 Bova1_4.0116.g23.t1, Beroe_ovata_Bova1_4.0169.g19.t1 Bova1_4.0169.g19.t1, Beroe_ovata_Bova1_4.0249.g10.t1 Bova1_4.0249.g10.t1, Beroe_ovata_Bova1_4.0010.g20.t2 Bova1_4.0010.g20.t2	Mnemiopsis_leidyi_ML09791a ML09791a								
+N20.HOG0000268	OG0000081	n8																							Beroe_ovata_Bova1_4.0012.g48.t3 Bova1_4.0012.g48.t3, Beroe_ovata_Bova1_4.0012.g48.t2 Bova1_4.0012.g48.t2, Beroe_ovata_Bova1_4.0012.g48.t1 Bova1_4.0012.g48.t1	Mnemiopsis_leidyi_ML082317a ML082317a								
+N20.HOG0000269	OG0000081	n32																								Mnemiopsis_leidyi_ML056914a ML056914a								
+N20.HOG0000270	OG0000087	n1																							Beroe_ovata_Bova1_4.0008.g42.t2 Bova1_4.0008.g42.t2, Beroe_ovata_Bova1_4.0008.g42.t1 Bova1_4.0008.g42.t1, Beroe_ovata_Bova1_4.0008.g42.t3 Bova1_4.0008.g42.t3	Mnemiopsis_leidyi_ML004920a ML004920a								
+N20.HOG0000271	OG0000087	n40																							Beroe_ovata_Bova1_4.0068.g34.t1 Bova1_4.0068.g34.t1, Beroe_ovata_Bova1_4.0068.g34.t2 Bova1_4.0068.g34.t2	Mnemiopsis_leidyi_ML06334a ML06334a								
+N20.HOG0000272	OG0000091	n9																								Mnemiopsis_leidyi_ML056964a ML056964a, Mnemiopsis_leidyi_ML463533a ML463533a								
+N20.HOG0000273	OG0000091	n12																								Mnemiopsis_leidyi_ML45836a ML45836a, Mnemiopsis_leidyi_ML10903a ML10903a								
+N20.HOG0000274	OG0000091	n20																							Beroe_ovata_Bova1_4.0137.g16.t1 Bova1_4.0137.g16.t1, Beroe_ovata_Bova1_4.0084.g19.t1 Bova1_4.0084.g19.t1, Beroe_ovata_Bova1_4.0084.g20.t1 Bova1_4.0084.g20.t1									
+N20.HOG0000275	OG0000091	n27																							Beroe_ovata_Bova1_4.0253.g25.t1 Bova1_4.0253.g25.t1, Beroe_ovata_Bova1_4.0253.g22.t1 Bova1_4.0253.g22.t1, Beroe_ovata_Bova1_4.0034.g47.t1 Bova1_4.0034.g47.t1	Mnemiopsis_leidyi_ML018046a ML018046a, Mnemiopsis_leidyi_ML14656a ML14656a, Mnemiopsis_leidyi_ML033224a ML033224a, Mnemiopsis_leidyi_ML073027a ML073027a, Mnemiopsis_leidyi_ML073026a ML073026a, Mnemiopsis_leidyi_ML169012a ML169012a, Mnemiopsis_leidyi_ML169011a ML169011a, Mnemiopsis_leidyi_ML12033a ML12033a								
+N20.HOG0000276	OG0000091	n37																							Beroe_ovata_Bova1_4.0017.g98.t1 Bova1_4.0017.g98.t1	Mnemiopsis_leidyi_ML26355a ML26355a, Mnemiopsis_leidyi_ML25401a ML25401a, Mnemiopsis_leidyi_ML26356a ML26356a, Mnemiopsis_leidyi_ML14593a ML14593a								
+N20.HOG0000277	OG0000091	n42																							Beroe_ovata_Bova1_4.0145.g24.t1 Bova1_4.0145.g24.t1, Beroe_ovata_Bova1_4.0154.g19.t1 Bova1_4.0154.g19.t1, Beroe_ovata_Bova1_4.1074.g1.t1 Bova1_4.1074.g1.t1	Mnemiopsis_leidyi_ML26855a ML26855a								
+N20.HOG0000278	OG0000091	n45																							Beroe_ovata_Bova1_4.0136.g9.t1 Bova1_4.0136.g9.t1	Mnemiopsis_leidyi_ML06581a ML06581a, Mnemiopsis_leidyi_ML20897a ML20897a, Mnemiopsis_leidyi_ML20898a ML20898a, Mnemiopsis_leidyi_ML106623a ML106623a, Mnemiopsis_leidyi_ML106624a ML106624a, Mnemiopsis_leidyi_ML106622a ML106622a								
+N20.HOG0000279	OG0000093	n7																								Mnemiopsis_leidyi_ML093044a ML093044a								
+N20.HOG0000280	OG0000093	n38																							Beroe_ovata_Bova1_4.0024.g37.t1 Bova1_4.0024.g37.t1, Beroe_ovata_Bova1_4.0024.g36.t1 Bova1_4.0024.g36.t1, Beroe_ovata_Bova1_4.0126.g23.t1 Bova1_4.0126.g23.t1, Beroe_ovata_Bova1_4.0024.g35.t1 Bova1_4.0024.g35.t1									
+N20.HOG0000281	OG0000094	n0																							Beroe_ovata_Bova1_4.0260.g6.t1 Bova1_4.0260.g6.t1	Mnemiopsis_leidyi_ML09081a ML09081a								
+N20.HOG0000282	OG0000103	n0																							Beroe_ovata_Bova1_4.0001.g4.t1 Bova1_4.0001.g4.t1, Beroe_ovata_Bova1_4.0001.g5.t1 Bova1_4.0001.g5.t1	Mnemiopsis_leidyi_ML14703a ML14703a								
+N20.HOG0000283	OG0000104	n0																								Mnemiopsis_leidyi_ML04798a ML04798a								
+N20.HOG0000284	OG0000106	n25																							Beroe_ovata_Bova1_4.0273.g10.t1 Bova1_4.0273.g10.t1, Beroe_ovata_Bova1_4.0273.g11.t1 Bova1_4.0273.g11.t1	Mnemiopsis_leidyi_ML10439a ML10439a, Mnemiopsis_leidyi_ML104310a ML104310a								
+N20.HOG0000285	OG0000106	n36																							Beroe_ovata_Bova1_4.0269.g12.t1 Bova1_4.0269.g12.t1, Beroe_ovata_Bova1_4.0033.g43.t1 Bova1_4.0033.g43.t1									
+N20.HOG0000286	OG0000106	n38																							Beroe_ovata_Bova1_4.0180.g26.t1 Bova1_4.0180.g26.t1, Beroe_ovata_Bova1_4.0112.g46.t1 Bova1_4.0112.g46.t1									
+N20.HOG0000287	OG0000107	n0																							Beroe_ovata_Bova1_4.0361.g7.t1 Bova1_4.0361.g7.t1									
+N20.HOG0000288	OG0000113	n17																							Beroe_ovata_Bova1_4.0104.g16.t1 Bova1_4.0104.g16.t1, Beroe_ovata_Bova1_4.0104.g16.t2 Bova1_4.0104.g16.t2	Mnemiopsis_leidyi_ML086612a ML086612a								
+N20.HOG0000289	OG0000114	n12																							Beroe_ovata_Bova1_4.0155.g12.t1 Bova1_4.0155.g12.t1, Beroe_ovata_Bova1_4.0155.g12.t2 Bova1_4.0155.g12.t2	Mnemiopsis_leidyi_ML082712a ML082712a								
+N20.HOG0000290	OG0000119	n11																							Beroe_ovata_Bova1_4.0022.g107.t1 Bova1_4.0022.g107.t1	Mnemiopsis_leidyi_ML18521a ML18521a								
+N20.HOG0000291	OG0000119	n14																							Beroe_ovata_Bova1_4.0022.g109.t1 Bova1_4.0022.g109.t1	Mnemiopsis_leidyi_ML11002a ML11002a								
+N20.HOG0000292	OG0000133	n0																							Beroe_ovata_Bova1_4.0231.g5.t2 Bova1_4.0231.g5.t2, Beroe_ovata_Bova1_4.0231.g5.t1 Bova1_4.0231.g5.t1	Mnemiopsis_leidyi_ML018015a ML018015a								
+N20.HOG0000293	OG0000134	n32																							Beroe_ovata_Bova1_4.0165.g23.t1 Bova1_4.0165.g23.t1, Beroe_ovata_Bova1_4.0165.g23.t2 Bova1_4.0165.g23.t2, Beroe_ovata_Bova1_4.0165.g23.t3 Bova1_4.0165.g23.t3	Mnemiopsis_leidyi_ML126214a ML126214a								
+N20.HOG0000294	OG0000137	n3																								Mnemiopsis_leidyi_ML078926a ML078926a								
+N20.HOG0000295	OG0000138	n9																							Beroe_ovata_Bova1_4.0135.g3.t2 Bova1_4.0135.g3.t2, Beroe_ovata_Bova1_4.0135.g3.t1 Bova1_4.0135.g3.t1, Beroe_ovata_Bova1_4.0135.g3.t4 Bova1_4.0135.g3.t4, Beroe_ovata_Bova1_4.0135.g3.t5 Bova1_4.0135.g3.t5, Beroe_ovata_Bova1_4.0135.g3.t6 Bova1_4.0135.g3.t6									
+N20.HOG0000296	OG0000141	n0																							Beroe_ovata_Bova1_4.0129.g39.t1 Bova1_4.0129.g39.t1									
+N20.HOG0000297	OG0000146	n10																							Beroe_ovata_Bova1_4.0152.g23.t1 Bova1_4.0152.g23.t1, Beroe_ovata_Bova1_4.0152.g24.t1 Bova1_4.0152.g24.t1									
+N20.HOG0000298	OG0000148	n0																							Beroe_ovata_Bova1_4.0104.g11.t1 Bova1_4.0104.g11.t1	Mnemiopsis_leidyi_ML048212a ML048212a								
+N20.HOG0000299	OG0000152	n27																							Beroe_ovata_Bova1_4.0464.g3.t1 Bova1_4.0464.g3.t1	Mnemiopsis_leidyi_ML12828a ML12828a								
+N20.HOG0000300	OG0000152	n30																								Mnemiopsis_leidyi_ML12827a ML12827a								
+N20.HOG0000301	OG0000155	n3																							Beroe_ovata_Bova1_4.0404.g3.t5 Bova1_4.0404.g3.t5, Beroe_ovata_Bova1_4.0404.g3.t1 Bova1_4.0404.g3.t1, Beroe_ovata_Bova1_4.0404.g3.t4 Bova1_4.0404.g3.t4, Beroe_ovata_Bova1_4.0404.g3.t3 Bova1_4.0404.g3.t3, Beroe_ovata_Bova1_4.0404.g3.t2 Bova1_4.0404.g3.t2	Mnemiopsis_leidyi_ML03547a ML03547a								
+N20.HOG0000302	OG0000155	n9																								Mnemiopsis_leidyi_ML068119a ML068119a								
+N20.HOG0000303	OG0000156	n0																							Beroe_ovata_Bova1_4.0124.g23.t1 Bova1_4.0124.g23.t1	Mnemiopsis_leidyi_ML000712a ML000712a								
+N20.HOG0000304	OG0000157	n0																								Mnemiopsis_leidyi_ML01552a ML01552a								
+N20.HOG0000305	OG0000159	n2																							Beroe_ovata_Bova1_4.0003.g170.t1 Bova1_4.0003.g170.t1	Mnemiopsis_leidyi_ML074238a ML074238a								
+N20.HOG0000306	OG0000165	n0																							Beroe_ovata_Bova1_4.0080.g32.t1 Bova1_4.0080.g32.t1, Beroe_ovata_Bova1_4.0080.g31.t1 Bova1_4.0080.g31.t1	Mnemiopsis_leidyi_ML40868a ML40868a								
+N20.HOG0000307	OG0000167	n1																								Mnemiopsis_leidyi_ML068314a ML068314a								
+N20.HOG0000308	OG0000171	n0																							Beroe_ovata_Bova1_4.0014.g57.t1 Bova1_4.0014.g57.t1	Mnemiopsis_leidyi_ML104332a ML104332a								
+N20.HOG0000309	OG0000176	n0																							Beroe_ovata_Bova1_4.0138.g15.t2 Bova1_4.0138.g15.t2, Beroe_ovata_Bova1_4.0138.g15.t1 Bova1_4.0138.g15.t1	Mnemiopsis_leidyi_ML50511a ML50511a								
+N20.HOG0000310	OG0000177	n18																							Beroe_ovata_Bova1_4.0025.g79.t1 Bova1_4.0025.g79.t1	Mnemiopsis_leidyi_ML020010a ML020010a, Mnemiopsis_leidyi_ML07729a ML07729a								
+N20.HOG0000311	OG0000179	n1																								Mnemiopsis_leidyi_ML056965a ML056965a								
+N20.HOG0000312	OG0000179	n8																							Beroe_ovata_Bova1_4.0067.g31.t1 Bova1_4.0067.g31.t1	Mnemiopsis_leidyi_ML15096a ML15096a								
+N20.HOG0000313	OG0000181	n0																							Beroe_ovata_Bova1_4.0127.g30.t1 Bova1_4.0127.g30.t1									
+N20.HOG0000314	OG0000182	n18																							Beroe_ovata_Bova1_4.0038.g27.t1 Bova1_4.0038.g27.t1	Mnemiopsis_leidyi_ML07572a ML07572a								
+N20.HOG0000315	OG0000187	n0																							Beroe_ovata_Bova1_4.0039.g18.t1 Bova1_4.0039.g18.t1									
+N20.HOG0000316	OG0000191	n8																								Mnemiopsis_leidyi_ML072813a ML072813a								
+N20.HOG0000317	OG0000191	n9																								Mnemiopsis_leidyi_ML079812a ML079812a								
+N20.HOG0000318	OG0000191	n11																								Mnemiopsis_leidyi_ML216351a ML216351a								
+N20.HOG0000319	OG0000191	n14																								Mnemiopsis_leidyi_ML49551a ML49551a, Mnemiopsis_leidyi_ML090224a ML090224a								
+N20.HOG0000320	OG0000191	n17																								Mnemiopsis_leidyi_ML00173a ML00173a								
+N20.HOG0000321	OG0000191	n20																								Mnemiopsis_leidyi_ML023012a ML023012a, Mnemiopsis_leidyi_ML023013a ML023013a								
+N20.HOG0000322	OG0000191	n23																								Mnemiopsis_leidyi_ML149636a ML149636a								
+N20.HOG0000323	OG0000191	n25																								Mnemiopsis_leidyi_ML07244a ML07244a								
+N20.HOG0000324	OG0000192	n0																							Beroe_ovata_Bova1_4.0025.g92.t1 Bova1_4.0025.g92.t1, Beroe_ovata_Bova1_4.0025.g94.t1 Bova1_4.0025.g94.t1									
+N20.HOG0000325	OG0000193	n0																							Beroe_ovata_Bova1_4.0008.g11.t1 Bova1_4.0008.g11.t1, Beroe_ovata_Bova1_4.0008.g9.t1 Bova1_4.0008.g9.t1	Mnemiopsis_leidyi_ML03269a ML03269a								
+N20.HOG0000326	OG0000194	n0																							Beroe_ovata_Bova1_4.0138.g26.t1 Bova1_4.0138.g26.t1	Mnemiopsis_leidyi_ML16565a ML16565a								
+N20.HOG0000327	OG0000195	n0																							Beroe_ovata_Bova1_4.0190.g12.t1 Bova1_4.0190.g12.t1	Mnemiopsis_leidyi_ML173714a ML173714a								
+N20.HOG0000328	OG0000199	n0																							Beroe_ovata_Bova1_4.0026.g82.t1 Bova1_4.0026.g82.t1	Mnemiopsis_leidyi_ML46359a ML46359a								
+N20.HOG0000329	OG0000200	n0																							Beroe_ovata_Bova1_4.0002.g138.t1 Bova1_4.0002.g138.t1									
+N20.HOG0000330	OG0000202	n8																							Beroe_ovata_Bova1_4.0420.g8.t2 Bova1_4.0420.g8.t2, Beroe_ovata_Bova1_4.0420.g8.t1 Bova1_4.0420.g8.t1	Mnemiopsis_leidyi_ML161335a ML161335a								
+N20.HOG0000331	OG0000204	n0																							Beroe_ovata_Bova1_4.0059.g16.t1 Bova1_4.0059.g16.t1, Beroe_ovata_Bova1_4.0059.g17.t1 Bova1_4.0059.g17.t1	Mnemiopsis_leidyi_ML14272a ML14272a								
+N20.HOG0000332	OG0000210	n0																							Beroe_ovata_Bova1_4.0208.g6.t1 Bova1_4.0208.g6.t1, Beroe_ovata_Bova1_4.0208.g6.t2 Bova1_4.0208.g6.t2									
+N20.HOG0000333	OG0000211	n0																							Beroe_ovata_Bova1_4.0037.g29.t1 Bova1_4.0037.g29.t1									
+N20.HOG0000334	OG0000212	n0																							Beroe_ovata_Bova1_4.0035.g39.t1 Bova1_4.0035.g39.t1, Beroe_ovata_Bova1_4.0035.g40.t1 Bova1_4.0035.g40.t1	Mnemiopsis_leidyi_ML097529a ML097529a								
+N20.HOG0000335	OG0000213	n13																							Beroe_ovata_Bova1_4.0353.g5.t2 Bova1_4.0353.g5.t2, Beroe_ovata_Bova1_4.0353.g5.t1 Bova1_4.0353.g5.t1, Beroe_ovata_Bova1_4.0353.g5.t6 Bova1_4.0353.g5.t6, Beroe_ovata_Bova1_4.0353.g5.t5 Bova1_4.0353.g5.t5, Beroe_ovata_Bova1_4.0353.g5.t3 Bova1_4.0353.g5.t3, Beroe_ovata_Bova1_4.0353.g5.t4 Bova1_4.0353.g5.t4	Mnemiopsis_leidyi_ML128617a ML128617a								
+N20.HOG0000336	OG0000214	n0																							Beroe_ovata_Bova1_4.0015.g97.t1 Bova1_4.0015.g97.t1	Mnemiopsis_leidyi_ML43434a ML43434a								
+N20.HOG0000337	OG0000218	n1																							Beroe_ovata_Bova1_4.0047.g25.t1 Bova1_4.0047.g25.t1	Mnemiopsis_leidyi_ML038815a ML038815a								
+N20.HOG0000338	OG0000218	n5																							Beroe_ovata_Bova1_4.0035.g70.t1 Bova1_4.0035.g70.t1	Mnemiopsis_leidyi_ML13609a ML13609a, Mnemiopsis_leidyi_ML00838a ML00838a, Mnemiopsis_leidyi_ML00836a ML00836a, Mnemiopsis_leidyi_ML22132a ML22132a								
+N20.HOG0000339	OG0000218	n10																							Beroe_ovata_Bova1_4.0010.g20.t1 Bova1_4.0010.g20.t1, Beroe_ovata_Bova1_4.0010.g20.t3 Bova1_4.0010.g20.t3, Beroe_ovata_Bova1_4.0189.g1.t1 Bova1_4.0189.g1.t1, Beroe_ovata_Bova1_4.0189.g4.t1 Bova1_4.0189.g4.t1	Mnemiopsis_leidyi_ML24844a ML24844a								
+N20.HOG0000340	OG0000218	n16																							Beroe_ovata_Bova1_4.0089.g9.t1 Bova1_4.0089.g9.t1, Beroe_ovata_Bova1_4.0157.g3.t1 Bova1_4.0157.g3.t1, Beroe_ovata_Bova1_4.0161.g13.t1 Bova1_4.0161.g13.t1	Mnemiopsis_leidyi_ML12881a ML12881a, Mnemiopsis_leidyi_ML182514a ML182514a								
+N20.HOG0000341	OG0000219	n0																							Beroe_ovata_Bova1_4.0029.g52.t1 Bova1_4.0029.g52.t1									
+N20.HOG0000342	OG0000220	n0																							Beroe_ovata_Bova1_4.0196.g21.t1 Bova1_4.0196.g21.t1	Mnemiopsis_leidyi_ML01633a ML01633a								
+N20.HOG0000343	OG0000229	n0																								Mnemiopsis_leidyi_ML019415a ML019415a								
+N20.HOG0000344	OG0000237	n0																							Beroe_ovata_Bova1_4.0123.g22.t1 Bova1_4.0123.g22.t1	Mnemiopsis_leidyi_ML008016a ML008016a								
+N20.HOG0000345	OG0000238	n0																							Beroe_ovata_Bova1_4.0169.g6.t1 Bova1_4.0169.g6.t1	Mnemiopsis_leidyi_ML35389a ML35389a								
+N20.HOG0000346	OG0000240	n1																							Beroe_ovata_Bova1_4.0090.g1.t1 Bova1_4.0090.g1.t1, Beroe_ovata_Bova1_4.0011.g80.t1 Bova1_4.0011.g80.t1									
+N20.HOG0000347	OG0000240	n10																							Beroe_ovata_Bova1_4.0275.g12.t1 Bova1_4.0275.g12.t1									
+N20.HOG0000348	OG0000246	n0																							Beroe_ovata_Bova1_4.0061.g40.t1 Bova1_4.0061.g40.t1									
+N20.HOG0000349	OG0000251	n1																							Beroe_ovata_Bova1_4.0877.g1.t1 Bova1_4.0877.g1.t1	Mnemiopsis_leidyi_ML004943a ML004943a								
+N20.HOG0000350	OG0000251	n7																							Beroe_ovata_Bova1_4.0546.g5.t1 Bova1_4.0546.g5.t1	Mnemiopsis_leidyi_ML08963a ML08963a, Mnemiopsis_leidyi_ML083711a ML083711a								
+N20.HOG0000351	OG0000251	n11																							Beroe_ovata_Bova1_4.1310.g1.t1 Bova1_4.1310.g1.t1, Beroe_ovata_Bova1_4.0091.g20.t1 Bova1_4.0091.g20.t1									
+N20.HOG0000352	OG0000251	n13																							Beroe_ovata_Bova1_4.0011.g78.t1 Bova1_4.0011.g78.t1, Beroe_ovata_Bova1_4.0211.g5.t1 Bova1_4.0211.g5.t1	Mnemiopsis_leidyi_ML03299a ML03299a, Mnemiopsis_leidyi_ML03509a ML03509a								
+N20.HOG0000353	OG0000251	n16																							Beroe_ovata_Bova1_4.0295.g21.t2 Bova1_4.0295.g21.t2, Beroe_ovata_Bova1_4.0295.g21.t1 Bova1_4.0295.g21.t1	Mnemiopsis_leidyi_ML02446a ML02446a, Mnemiopsis_leidyi_ML258242a ML258242a								
+N20.HOG0000354	OG0000253	n0																								Mnemiopsis_leidyi_ML015627a ML015627a								
+N20.HOG0000355	OG0000263	n9																							Beroe_ovata_Bova1_4.2512.g1.t1 Bova1_4.2512.g1.t1									
+N20.HOG0000356	OG0000263	n17																							Beroe_ovata_Bova1_4.0078.g22.t1 Bova1_4.0078.g22.t1									
+N20.HOG0000357	OG0000276	n0																							Beroe_ovata_Bova1_4.0017.g35.t1 Bova1_4.0017.g35.t1									
+N20.HOG0000358	OG0000277	n0																							Beroe_ovata_Bova1_4.0113.g12.t3 Bova1_4.0113.g12.t3, Beroe_ovata_Bova1_4.0113.g12.t1 Bova1_4.0113.g12.t1, Beroe_ovata_Bova1_4.0113.g12.t2 Bova1_4.0113.g12.t2	Mnemiopsis_leidyi_ML01781a ML01781a								
+N20.HOG0000359	OG0000285	n1																								Mnemiopsis_leidyi_ML10116a ML10116a								
+N20.HOG0000360	OG0000331	n0																								Mnemiopsis_leidyi_ML017312a ML017312a								
+N20.HOG0000361	OG0000342	n0																							Beroe_ovata_Bova1_4.0362.g5.t1 Bova1_4.0362.g5.t1									
+N20.HOG0000362	OG0000359	n1																							Beroe_ovata_Bova1_4.0591.g1.t1 Bova1_4.0591.g1.t1	Mnemiopsis_leidyi_ML087115a ML087115a								
+N20.HOG0000363	OG0000359	n5																							Beroe_ovata_Bova1_4.0317.g1.t1 Bova1_4.0317.g1.t1, Beroe_ovata_Bova1_4.0317.g1.t2 Bova1_4.0317.g1.t2									
+N20.HOG0000364	OG0000359	n9																								Mnemiopsis_leidyi_ML02824a ML02824a								
+N20.HOG0000365	OG0000359	n10																							Beroe_ovata_Bova1_4.0064.g18.t1 Bova1_4.0064.g18.t1, Beroe_ovata_Bova1_4.0017.g44.t1 Bova1_4.0017.g44.t1	Mnemiopsis_leidyi_ML01166a ML01166a								
+N20.HOG0000366	OG0000378	n2																								Mnemiopsis_leidyi_ML002629a ML002629a								
+N20.HOG0000367	OG0000378	n9																								Mnemiopsis_leidyi_ML15721a ML15721a								
+N20.HOG0000368	OG0000393	n0																							Beroe_ovata_Bova1_4.0167.g5.t1 Bova1_4.0167.g5.t1, Beroe_ovata_Bova1_4.0167.g4.t1 Bova1_4.0167.g4.t1	Mnemiopsis_leidyi_ML06302a ML06302a								
+N20.HOG0000369	OG0000394	n0																								Mnemiopsis_leidyi_ML10224a ML10224a								
+N20.HOG0000370	OG0000400	n4																								Mnemiopsis_leidyi_ML049017a ML049017a								
+N20.HOG0000371	OG0000400	n5																							Beroe_ovata_Bova1_4.0004.g104.t1 Bova1_4.0004.g104.t1, Beroe_ovata_Bova1_4.0004.g103.t1 Bova1_4.0004.g103.t1	Mnemiopsis_leidyi_ML01345a ML01345a								
+N20.HOG0000372	OG0000403	n0																								Mnemiopsis_leidyi_ML234539a ML234539a								
+N20.HOG0000373	OG0000428	n0																							Beroe_ovata_Bova1_4.0973.g1.t1 Bova1_4.0973.g1.t1, Beroe_ovata_Bova1_4.0181.g7.t2 Bova1_4.0181.g7.t2, Beroe_ovata_Bova1_4.0181.g7.t1 Bova1_4.0181.g7.t1	Mnemiopsis_leidyi_ML056927a ML056927a								
+N20.HOG0000374	OG0000436	n0																							Beroe_ovata_Bova1_4.0153.g3.t3 Bova1_4.0153.g3.t3, Beroe_ovata_Bova1_4.0153.g3.t1 Bova1_4.0153.g3.t1									
+N20.HOG0000375	OG0000454	n0																								Mnemiopsis_leidyi_ML04819a ML04819a								
+N20.HOG0000376	OG0000489	n0																							Beroe_ovata_Bova1_4.0469.g3.t4 Bova1_4.0469.g3.t4, Beroe_ovata_Bova1_4.0469.g3.t2 Bova1_4.0469.g3.t2, Beroe_ovata_Bova1_4.0469.g3.t1 Bova1_4.0469.g3.t1, Beroe_ovata_Bova1_4.0469.g3.t3 Bova1_4.0469.g3.t3									
+N20.HOG0000377	OG0000494	n0																								Mnemiopsis_leidyi_ML234538a ML234538a, Mnemiopsis_leidyi_ML004910a ML004910a, Mnemiopsis_leidyi_ML145412a ML145412a, Mnemiopsis_leidyi_ML08837a ML08837a, Mnemiopsis_leidyi_ML055910a ML055910a, Mnemiopsis_leidyi_ML20733a ML20733a, Mnemiopsis_leidyi_ML26752a ML26752a, Mnemiopsis_leidyi_ML050917a ML050917a, Mnemiopsis_leidyi_ML20263a ML20263a								
+N20.HOG0000378	OG0000500	n0																							Beroe_ovata_Bova1_4.0087.g43.t1 Bova1_4.0087.g43.t1									
+N20.HOG0000379	OG0000524	n0																								Mnemiopsis_leidyi_ML002511a ML002511a								
+N20.HOG0000380	OG0000542	n0																							Beroe_ovata_Bova1_4.0092.g30.t1 Bova1_4.0092.g30.t1, Beroe_ovata_Bova1_4.0092.g29.t1 Bova1_4.0092.g29.t1	Mnemiopsis_leidyi_ML15155a ML15155a								
+N20.HOG0000381	OG0000546	n1																							Beroe_ovata_Bova1_4.0187.g36.t1 Bova1_4.0187.g36.t1, Beroe_ovata_Bova1_4.0187.g36.t2 Bova1_4.0187.g36.t2, Beroe_ovata_Bova1_4.0187.g37.t1 Bova1_4.0187.g37.t1	Mnemiopsis_leidyi_ML02449a ML02449a								
+N20.HOG0000382	OG0000546	n5																							Beroe_ovata_Bova1_4.0022.g1.t1 Bova1_4.0022.g1.t1									
+N20.HOG0000383	OG0000547	n0																							Beroe_ovata_Bova1_4.0267.g5.t3 Bova1_4.0267.g5.t3, Beroe_ovata_Bova1_4.0267.g5.t5 Bova1_4.0267.g5.t5, Beroe_ovata_Bova1_4.0267.g5.t1 Bova1_4.0267.g5.t1, Beroe_ovata_Bova1_4.0267.g5.t2 Bova1_4.0267.g5.t2, Beroe_ovata_Bova1_4.0267.g5.t6 Bova1_4.0267.g5.t6, Beroe_ovata_Bova1_4.0267.g5.t4 Bova1_4.0267.g5.t4	Mnemiopsis_leidyi_ML010612a ML010612a								
+N20.HOG0000384	OG0000548	n2																							Beroe_ovata_Bova1_4.0621.g1.t1 Bova1_4.0621.g1.t1	Mnemiopsis_leidyi_ML004938a ML004938a								
+N20.HOG0000385	OG0000548	n4																							Beroe_ovata_Bova1_4.0300.g4.t1 Bova1_4.0300.g4.t1	Mnemiopsis_leidyi_ML004937a ML004937a								
+N20.HOG0000386	OG0000598	n0																							Beroe_ovata_Bova1_4.0061.g27.t2 Bova1_4.0061.g27.t2, Beroe_ovata_Bova1_4.0061.g27.t1 Bova1_4.0061.g27.t1									
+N20.HOG0000387	OG0000606	n3																							Beroe_ovata_Bova1_4.0072.g23.t1 Bova1_4.0072.g23.t1	Mnemiopsis_leidyi_ML08105a ML08105a								
+N20.HOG0000388	OG0000606	n4																							Beroe_ovata_Bova1_4.0008.g61.t1 Bova1_4.0008.g61.t1	Mnemiopsis_leidyi_ML08104a ML08104a, Mnemiopsis_leidyi_ML356014a ML356014a								
+N20.HOG0000389	OG0000622	n0																								Mnemiopsis_leidyi_ML070218a ML070218a								
+N20.HOG0000390	OG0000625	n0																							Beroe_ovata_Bova1_4.0494.g3.t1 Bova1_4.0494.g3.t1									
+N20.HOG0000391	OG0000637	n0																							Beroe_ovata_Bova1_4.0022.g2.t1 Bova1_4.0022.g2.t1									
+N20.HOG0000392	OG0000676	n0																							Beroe_ovata_Bova1_4.0080.g9.t2 Bova1_4.0080.g9.t2, Beroe_ovata_Bova1_4.0080.g9.t1 Bova1_4.0080.g9.t1, Beroe_ovata_Bova1_4.0080.g10.t1 Bova1_4.0080.g10.t1	Mnemiopsis_leidyi_ML096827a ML096827a								
+N20.HOG0000393	OG0000701	n0																							Beroe_ovata_Bova1_4.0011.g36.t1 Bova1_4.0011.g36.t1									
+N20.HOG0000394	OG0000707	n0																								Mnemiopsis_leidyi_ML14876a ML14876a								
+N20.HOG0000395	OG0000708	n0																							Beroe_ovata_Bova1_4.0075.g18.t2 Bova1_4.0075.g18.t2, Beroe_ovata_Bova1_4.0075.g18.t1 Bova1_4.0075.g18.t1	Mnemiopsis_leidyi_ML218914a ML218914a, Mnemiopsis_leidyi_ML032518a ML032518a								
+N20.HOG0000396	OG0000718	n0																							Beroe_ovata_Bova1_4.0426.g2.t1 Bova1_4.0426.g2.t1, Beroe_ovata_Bova1_4.0575.g2.t2 Bova1_4.0575.g2.t2, Beroe_ovata_Bova1_4.0575.g2.t1 Bova1_4.0575.g2.t1									
+N20.HOG0000397	OG0000736	n0																								Mnemiopsis_leidyi_ML120718a ML120718a								
+N20.HOG0000398	OG0000740	n0																							Beroe_ovata_Bova1_4.0091.g56.t1 Bova1_4.0091.g56.t1, Beroe_ovata_Bova1_4.0091.g56.t2 Bova1_4.0091.g56.t2, Beroe_ovata_Bova1_4.0043.g18.t1 Bova1_4.0043.g18.t1	Mnemiopsis_leidyi_ML102245a ML102245a, Mnemiopsis_leidyi_ML003225a ML003225a								
+N20.HOG0000399	OG0000741	n0																							Beroe_ovata_Bova1_4.0083.g54.t1 Bova1_4.0083.g54.t1, Beroe_ovata_Bova1_4.0083.g53.t1 Bova1_4.0083.g53.t1	Mnemiopsis_leidyi_ML021112a ML021112a								
+N20.HOG0000400	OG0000742	n0																							Beroe_ovata_Bova1_4.0110.g47.t1 Bova1_4.0110.g47.t1, Beroe_ovata_Bova1_4.0110.g47.t3 Bova1_4.0110.g47.t3, Beroe_ovata_Bova1_4.0110.g47.t2 Bova1_4.0110.g47.t2	Mnemiopsis_leidyi_ML234536a ML234536a								
+N20.HOG0000401	OG0000743	n0																							Beroe_ovata_Bova1_4.0116.g7.t1 Bova1_4.0116.g7.t1, Beroe_ovata_Bova1_4.0116.g8.t2 Bova1_4.0116.g8.t2, Beroe_ovata_Bova1_4.0116.g8.t1 Bova1_4.0116.g8.t1	Mnemiopsis_leidyi_ML14783a ML14783a								
+N20.HOG0000402	OG0000744	n0																							Beroe_ovata_Bova1_4.0951.g1.t1 Bova1_4.0951.g1.t1, Beroe_ovata_Bova1_4.0187.g34.t1 Bova1_4.0187.g34.t1	Mnemiopsis_leidyi_ML239512a ML239512a								
+N20.HOG0000403	OG0000745	n0																							Beroe_ovata_Bova1_4.0328.g5.t1 Bova1_4.0328.g5.t1, Beroe_ovata_Bova1_4.0328.g5.t2 Bova1_4.0328.g5.t2									
+N20.HOG0000404	OG0000746	n0																								Mnemiopsis_leidyi_ML085725a ML085725a								
+N20.HOG0000405	OG0000784	n0																								Mnemiopsis_leidyi_ML12367a ML12367a								
+N20.HOG0000406	OG0000838	n0																							Beroe_ovata_Bova1_4.0186.g12.t1 Bova1_4.0186.g12.t1	Mnemiopsis_leidyi_ML200255a ML200255a								
+N20.HOG0000407	OG0000845	n0																								Mnemiopsis_leidyi_ML12364a ML12364a								
+N20.HOG0000408	OG0000864	n0																							Beroe_ovata_Bova1_4.0262.g14.t2 Bova1_4.0262.g14.t2, Beroe_ovata_Bova1_4.0262.g14.t1 Bova1_4.0262.g14.t1	Mnemiopsis_leidyi_ML23459a ML23459a								
+N20.HOG0000409	OG0000884	n0																							Beroe_ovata_Bova1_4.0023.g81.t1 Bova1_4.0023.g81.t1, Beroe_ovata_Bova1_4.1032.g1.t1 Bova1_4.1032.g1.t1	Mnemiopsis_leidyi_ML044127a ML044127a								
+N20.HOG0000410	OG0000917	n0																							Beroe_ovata_Bova1_4.1901.g1.t2 Bova1_4.1901.g1.t2, Beroe_ovata_Bova1_4.1901.g1.t1 Bova1_4.1901.g1.t1									
+N20.HOG0000411	OG0000922	n0																							Beroe_ovata_Bova1_4.0164.g10.t1 Bova1_4.0164.g10.t1	Mnemiopsis_leidyi_ML10429a ML10429a								
+N20.HOG0000412	OG0000926	n0																							Beroe_ovata_Bova1_4.0076.g37.t1 Bova1_4.0076.g37.t1, Beroe_ovata_Bova1_4.0076.g38.t1 Bova1_4.0076.g38.t1, Beroe_ovata_Bova1_4.0014.g4.t1 Bova1_4.0014.g4.t1, Beroe_ovata_Bova1_4.0014.g5.t1 Bova1_4.0014.g5.t1	Mnemiopsis_leidyi_ML368921a ML368921a								
+N20.HOG0000413	OG0000927	n2																							Beroe_ovata_Bova1_4.0019.g87.t1 Bova1_4.0019.g87.t1									
+N20.HOG0000414	OG0000927	n3																							Beroe_ovata_Bova1_4.0019.g89.t1 Bova1_4.0019.g89.t1									
+N20.HOG0000415	OG0000928	n0																							Beroe_ovata_Bova1_4.0024.g82.t1 Bova1_4.0024.g82.t1, Beroe_ovata_Bova1_4.0024.g81.t1 Bova1_4.0024.g81.t1	Mnemiopsis_leidyi_ML15659a ML15659a								
+N20.HOG0000416	OG0000929	n0																							Beroe_ovata_Bova1_4.0053.g31.t1 Bova1_4.0053.g31.t1, Beroe_ovata_Bova1_4.0053.g32.t1 Bova1_4.0053.g32.t1	Mnemiopsis_leidyi_ML154517a ML154517a								
+N20.HOG0000417	OG0000930	n0																							Beroe_ovata_Bova1_4.0129.g36.t1 Bova1_4.0129.g36.t1, Beroe_ovata_Bova1_4.0129.g35.t1 Bova1_4.0129.g35.t1	Mnemiopsis_leidyi_ML064958a ML064958a, Mnemiopsis_leidyi_ML154132a ML154132a								
+N20.HOG0000418	OG0000931	n0																							Beroe_ovata_Bova1_4.0160.g9.t1 Bova1_4.0160.g9.t1, Beroe_ovata_Bova1_4.0160.g9.t5 Bova1_4.0160.g9.t5, Beroe_ovata_Bova1_4.0160.g9.t2 Bova1_4.0160.g9.t2, Beroe_ovata_Bova1_4.0160.g9.t3 Bova1_4.0160.g9.t3, Beroe_ovata_Bova1_4.0160.g9.t4 Bova1_4.0160.g9.t4									
+N20.HOG0000419	OG0000932	n0																							Beroe_ovata_Bova1_4.0163.g39.t1 Bova1_4.0163.g39.t1, Beroe_ovata_Bova1_4.0549.g1.t1 Bova1_4.0549.g1.t1, Beroe_ovata_Bova1_4.0329.g1.t2 Bova1_4.0329.g1.t2, Beroe_ovata_Bova1_4.0329.g1.t1 Bova1_4.0329.g1.t1	Mnemiopsis_leidyi_ML16901a ML16901a								
+N20.HOG0000420	OG0000933	n0																							Beroe_ovata_Bova1_4.0344.g4.t1 Bova1_4.0344.g4.t1	Mnemiopsis_leidyi_ML13831a ML13831a, Mnemiopsis_leidyi_ML26626a ML26626a								
+N20.HOG0000421	OG0000934	n0																								Mnemiopsis_leidyi_ML012015a ML012015a, Mnemiopsis_leidyi_ML32598a ML32598a, Mnemiopsis_leidyi_ML39833a ML39833a, Mnemiopsis_leidyi_ML05677a ML05677a, Mnemiopsis_leidyi_ML089711a ML089711a								
+N20.HOG0000422	OG0000935	n0																								Mnemiopsis_leidyi_ML343419a ML343419a, Mnemiopsis_leidyi_ML216345a ML216345a, Mnemiopsis_leidyi_ML21204a ML21204a, Mnemiopsis_leidyi_ML23336a ML23336a								
+N20.HOG0000423	OG0001029	n0																							Beroe_ovata_Bova1_4.0090.g26.t1 Bova1_4.0090.g26.t1, Beroe_ovata_Bova1_4.0090.g25.t1 Bova1_4.0090.g25.t1									
+N20.HOG0000424	OG0001032	n0																							Beroe_ovata_Bova1_4.0306.g1.t1 Bova1_4.0306.g1.t1									
+N20.HOG0000425	OG0001088	n0																								Mnemiopsis_leidyi_ML04419a ML04419a								
+N20.HOG0000426	OG0001117	n0																								Mnemiopsis_leidyi_ML00157a ML00157a, Mnemiopsis_leidyi_ML05595a ML05595a, Mnemiopsis_leidyi_ML455314a ML455314a								
+N20.HOG0000427	OG0001122	n0																							Beroe_ovata_Bova1_4.0155.g19.t1 Bova1_4.0155.g19.t1	Mnemiopsis_leidyi_ML057616a ML057616a								
+N20.HOG0000428	OG0001184	n0																								Mnemiopsis_leidyi_ML04122a ML04122a								
+N20.HOG0000429	OG0001202	n0																								Mnemiopsis_leidyi_ML27964a ML27964a								
+N20.HOG0000430	OG0001216	n0																							Beroe_ovata_Bova1_4.0027.g6.t1 Bova1_4.0027.g6.t1	Mnemiopsis_leidyi_ML13703a ML13703a								
+N20.HOG0000431	OG0001224	n0																							Beroe_ovata_Bova1_4.0007.g54.t1 Bova1_4.0007.g54.t1, Beroe_ovata_Bova1_4.0007.g53.t1 Bova1_4.0007.g53.t1	Mnemiopsis_leidyi_ML114623a ML114623a								
+N20.HOG0000432	OG0001225	n0																							Beroe_ovata_Bova1_4.0008.g107.t1 Bova1_4.0008.g107.t1	Mnemiopsis_leidyi_ML07133a ML07133a								
+N20.HOG0000433	OG0001226	n0																							Beroe_ovata_Bova1_4.0014.g123.t1 Bova1_4.0014.g123.t1	Mnemiopsis_leidyi_ML1541102a ML1541102a								
+N20.HOG0000434	OG0001227	n0																							Beroe_ovata_Bova1_4.0022.g76.t1 Bova1_4.0022.g76.t1, Beroe_ovata_Bova1_4.0022.g75.t1 Bova1_4.0022.g75.t1	Mnemiopsis_leidyi_ML13812a ML13812a								
+N20.HOG0000435	OG0001228	n0																							Beroe_ovata_Bova1_4.0042.g78.t1 Bova1_4.0042.g78.t1, Beroe_ovata_Bova1_4.0042.g79.t1 Bova1_4.0042.g79.t1	Mnemiopsis_leidyi_ML013612a ML013612a								
+N20.HOG0000436	OG0001229	n0																							Beroe_ovata_Bova1_4.0053.g62.t2 Bova1_4.0053.g62.t2, Beroe_ovata_Bova1_4.0053.g62.t1 Bova1_4.0053.g62.t1									
+N20.HOG0000437	OG0001230	n0																							Beroe_ovata_Bova1_4.0054.g18.t1 Bova1_4.0054.g18.t1, Beroe_ovata_Bova1_4.0054.g19.t1 Bova1_4.0054.g19.t1	Mnemiopsis_leidyi_ML086634a ML086634a								
+N20.HOG0000438	OG0001231	n0																							Beroe_ovata_Bova1_4.0063.g24.t2 Bova1_4.0063.g24.t2, Beroe_ovata_Bova1_4.0063.g24.t1 Bova1_4.0063.g24.t1	Mnemiopsis_leidyi_ML093027a ML093027a								
+N20.HOG0000439	OG0001232	n0																							Beroe_ovata_Bova1_4.0104.g33.t3 Bova1_4.0104.g33.t3, Beroe_ovata_Bova1_4.0104.g33.t2 Bova1_4.0104.g33.t2, Beroe_ovata_Bova1_4.0104.g33.t1 Bova1_4.0104.g33.t1	Mnemiopsis_leidyi_ML49658a ML49658a								
+N20.HOG0000440	OG0001233	n0																							Beroe_ovata_Bova1_4.0110.g17.t1 Bova1_4.0110.g17.t1	Mnemiopsis_leidyi_ML06515a ML06515a								
+N20.HOG0000441	OG0001234	n0																							Beroe_ovata_Bova1_4.0198.g12.t1 Bova1_4.0198.g12.t1	Mnemiopsis_leidyi_ML02955a ML02955a, Mnemiopsis_leidyi_ML02956a ML02956a, Mnemiopsis_leidyi_ML120719a ML120719a								
+N20.HOG0000442	OG0001235	n0																							Beroe_ovata_Bova1_4.0220.g23.t1 Bova1_4.0220.g23.t1	Mnemiopsis_leidyi_ML119716a ML119716a								
+N20.HOG0000443	OG0001236	n0																							Beroe_ovata_Bova1_4.0328.g10.t1 Bova1_4.0328.g10.t1	Mnemiopsis_leidyi_ML068137a ML068137a, Mnemiopsis_leidyi_ML41279a ML41279a								
+N20.HOG0000444	OG0001237	n0																							Beroe_ovata_Bova1_4.0341.g16.t1 Bova1_4.0341.g16.t1	Mnemiopsis_leidyi_ML136011a ML136011a								
+N20.HOG0000445	OG0001238	n0																							Beroe_ovata_Bova1_4.0384.g7.t1 Bova1_4.0384.g7.t1, Beroe_ovata_Bova1_4.0384.g8.t1 Bova1_4.0384.g8.t1	Mnemiopsis_leidyi_ML008327a ML008327a								
+N20.HOG0000446	OG0001239	n0																								Mnemiopsis_leidyi_ML20572a ML20572a, Mnemiopsis_leidyi_ML149216a ML149216a, Mnemiopsis_leidyi_ML41821a ML41821a, Mnemiopsis_leidyi_ML020064a ML020064a								
+N20.HOG0000447	OG0001240	n0																								Mnemiopsis_leidyi_ML182031a ML182031a, Mnemiopsis_leidyi_ML11855a ML11855a, Mnemiopsis_leidyi_ML15049a ML15049a								
+N20.HOG0000448	OG0001241	n0																								Mnemiopsis_leidyi_ML216360a ML216360a								
+N20.HOG0000449	OG0001653	-																							Beroe_ovata_Bova1_4.0010.g95.t1 Bova1_4.0010.g95.t1	Mnemiopsis_leidyi_ML011732a ML011732a, Mnemiopsis_leidyi_ML011730a ML011730a								
+N20.HOG0000450	OG0001655	-																							Beroe_ovata_Bova1_4.0033.g93.t1 Bova1_4.0033.g93.t1, Beroe_ovata_Bova1_4.0250.g20.t2 Bova1_4.0250.g20.t2, Beroe_ovata_Bova1_4.0250.g20.t1 Bova1_4.0250.g20.t1									
+N20.HOG0000451	OG0001656	-																							Beroe_ovata_Bova1_4.0035.g1.t1 Bova1_4.0035.g1.t1, Beroe_ovata_Bova1_4.0035.g1.t2 Bova1_4.0035.g1.t2	Mnemiopsis_leidyi_ML04676a ML04676a								
+N20.HOG0000452	OG0001657	-																							Beroe_ovata_Bova1_4.0038.g47.t1 Bova1_4.0038.g47.t1, Beroe_ovata_Bova1_4.0038.g47.t2 Bova1_4.0038.g47.t2	Mnemiopsis_leidyi_ML03782a ML03782a								
+N20.HOG0000453	OG0001664	-																							Beroe_ovata_Bova1_4.0087.g15.t1 Bova1_4.0087.g15.t1, Beroe_ovata_Bova1_4.0087.g15.t2 Bova1_4.0087.g15.t2, Beroe_ovata_Bova1_4.0087.g16.t1 Bova1_4.0087.g16.t1									
+N20.HOG0000454	OG0001665	-																							Beroe_ovata_Bova1_4.0559.g6.t1 Bova1_4.0559.g6.t1, Beroe_ovata_Bova1_4.0117.g17.t1 Bova1_4.0117.g17.t1, Beroe_ovata_Bova1_4.0559.g7.t1 Bova1_4.0559.g7.t1									
+N20.HOG0000455	OG0001666	-																							Beroe_ovata_Bova1_4.0129.g10.t1 Bova1_4.0129.g10.t1, Beroe_ovata_Bova1_4.0129.g9.t1 Bova1_4.0129.g9.t1	Mnemiopsis_leidyi_ML03434a ML03434a								
+N20.HOG0000456	OG0001669	-																							Beroe_ovata_Bova1_4.0239.g19.t3 Bova1_4.0239.g19.t3, Beroe_ovata_Bova1_4.0239.g19.t2 Bova1_4.0239.g19.t2, Beroe_ovata_Bova1_4.0239.g19.t1 Bova1_4.0239.g19.t1									
+N20.HOG0000457	OG0001674	-																								Mnemiopsis_leidyi_ML06691a ML06691a, Mnemiopsis_leidyi_ML006313a ML006313a, Mnemiopsis_leidyi_ML279829a ML279829a								
+N20.HOG0000458	OG0001676	-																								Mnemiopsis_leidyi_ML16649a ML16649a, Mnemiopsis_leidyi_ML03354a ML03354a, Mnemiopsis_leidyi_ML077621a ML077621a								
+N20.HOG0000459	OG0002152	-																							Beroe_ovata_Bova1_4.0004.g159.t1 Bova1_4.0004.g159.t1	Mnemiopsis_leidyi_ML05421a ML05421a								
+N20.HOG0000460	OG0002153	-																							Beroe_ovata_Bova1_4.0010.g36.t1 Bova1_4.0010.g36.t1, Beroe_ovata_Bova1_4.0010.g35.t1 Bova1_4.0010.g35.t1									
+N20.HOG0000461	OG0002154	-																							Beroe_ovata_Bova1_4.0139.g36.t1 Bova1_4.0139.g36.t1, Beroe_ovata_Bova1_4.0040.g56.t2 Bova1_4.0040.g56.t2									
+N20.HOG0000462	OG0002157	-																							Beroe_ovata_Bova1_4.0060.g29.t2 Bova1_4.0060.g29.t2, Beroe_ovata_Bova1_4.0060.g29.t1 Bova1_4.0060.g29.t1									
+N20.HOG0000463	OG0002158	-																							Beroe_ovata_Bova1_4.0066.g38.t1 Bova1_4.0066.g38.t1, Beroe_ovata_Bova1_4.0066.g37.t1 Bova1_4.0066.g37.t1									
+N20.HOG0000464	OG0002160	-																							Beroe_ovata_Bova1_4.0137.g3.t1 Bova1_4.0137.g3.t1, Beroe_ovata_Bova1_4.0137.g3.t2 Bova1_4.0137.g3.t2									
+N20.HOG0000465	OG0002161	-																							Beroe_ovata_Bova1_4.0163.g28.t1 Bova1_4.0163.g28.t1, Beroe_ovata_Bova1_4.0163.g27.t1 Bova1_4.0163.g27.t1									
+N20.HOG0000466	OG0002163	-																							Beroe_ovata_Bova1_4.0172.g12.t1 Bova1_4.0172.g12.t1, Beroe_ovata_Bova1_4.0172.g11.t1 Bova1_4.0172.g11.t1									
+N20.HOG0000467	OG0002164	-																							Beroe_ovata_Bova1_4.0247.g2.t1 Bova1_4.0247.g2.t1	Mnemiopsis_leidyi_ML22353a ML22353a								
+N20.HOG0000468	OG0002165	-																							Beroe_ovata_Bova1_4.0355.g5.t1 Bova1_4.0355.g5.t1, Beroe_ovata_Bova1_4.0355.g4.t1 Bova1_4.0355.g4.t1									
+N20.HOG0000469	OG0002166	-																							Beroe_ovata_Bova1_4.0516.g4.t1 Bova1_4.0516.g4.t1	Mnemiopsis_leidyi_ML047911a ML047911a								
+N20.HOG0000470	OG0002167	-																								Mnemiopsis_leidyi_ML057311a ML057311a, Mnemiopsis_leidyi_ML003232a ML003232a								
+N20.HOG0000471	OG0002169	-																								Mnemiopsis_leidyi_ML031210a ML031210a, Mnemiopsis_leidyi_ML20854a ML20854a								
+N20.HOG0000472	OG0002172	-																								Mnemiopsis_leidyi_ML046328a ML046328a, Mnemiopsis_leidyi_ML14071a ML14071a								
+N20.HOG0000473	OG0002177	-																								Mnemiopsis_leidyi_ML087118a ML087118a, Mnemiopsis_leidyi_ML087117a ML087117a								
+N20.HOG0000474	OG0002180	-																								Mnemiopsis_leidyi_ML11721a ML11721a, Mnemiopsis_leidyi_ML402912a ML402912a								
+N20.HOG0000475	OG0002190	-																								Mnemiopsis_leidyi_ML216341a ML216341a, Mnemiopsis_leidyi_ML216343a ML216343a								
