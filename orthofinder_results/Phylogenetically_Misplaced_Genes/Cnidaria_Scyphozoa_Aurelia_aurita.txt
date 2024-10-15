@@ -1,0 +1,3 @@
+Aurelia_aurita_Seg6869.1 Seg6869.1 transcript_id=Seg6869.1_GoldUCD_mRNA.D3Y31 product=Peroxidasin protein_id=Seg6869.1_GoldUCD_D3Y31 partial=true
+Aurelia_aurita_Seg6049.1 Seg6049.1 transcript_id=Seg6049.1_GoldUCD_mRNA.D3Y31 product=Fibropellin-1 pseudo=true protein_id=Seg6049.1_GoldUCD_D3Y31 partial=true
+Aurelia_aurita_Seg11460.1 Seg11460.1 transcript_id=Seg11460.1_GoldUCD_mRNA.D3Y31 product="hypothetical protein" protein_id=Seg11460.1_GoldUCD_D3Y31 partial=true

@@ -1,0 +1,5 @@
+Nematostella_vectensis_NV2t022932001.1 NV2t022932001.1
+Nematostella_vectensis_NV2t024079003.1 NV2t024079003.1
+Nematostella_vectensis_NV2t024079006.1 NV2t024079006.1
+Nematostella_vectensis_NV2t024079005.1 NV2t024079005.1
+Nematostella_vectensis_NV2t005309002.1 NV2t005309002.1

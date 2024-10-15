@@ -1,0 +1,5 @@
+Branchiostoma_floridae_tr_A0A9J7M1M5_A0A9J7M1M5_BRAFL tr|A0A9J7M1M5|A0A9J7M1M5_BRAFL C-type lectin lectoxin-Thr1-like isoform X2 OS=Branchiostoma floridae OX=7739 GN=LOC118427240 PE=4 SV=1
+Branchiostoma_floridae_tr_A0A9J7M103_A0A9J7M103_BRAFL tr|A0A9J7M103|A0A9J7M103_BRAFL Snaclec agkisacutacin subunit B-like isoform X1 OS=Branchiostoma floridae OX=7739 GN=LOC118427240 PE=4 SV=1
+Branchiostoma_floridae_tr_A0A9J7HJT8_A0A9J7HJT8_BRAFL tr|A0A9J7HJT8|A0A9J7HJT8_BRAFL Myosin light chain kinase_ smooth muscle-like OS=Branchiostoma floridae OX=7739 GN=LOC118405515 PE=4 SV=1
+Branchiostoma_floridae_tr_A0A9J7L3J3_A0A9J7L3J3_BRAFL tr|A0A9J7L3J3|A0A9J7L3J3_BRAFL Complement component C6-like OS=Branchiostoma floridae OX=7739 GN=LOC118415174 PE=3 SV=1
+Branchiostoma_floridae_tr_A0A9J7LCX7_A0A9J7LCX7_BRAFL tr|A0A9J7LCX7|A0A9J7LCX7_BRAFL Dorsal-ventral patterning protein tolloid-like OS=Branchiostoma floridae OX=7739 GN=LOC118418137 PE=4 SV=1

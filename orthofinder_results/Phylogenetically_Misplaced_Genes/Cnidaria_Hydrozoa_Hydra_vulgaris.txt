@@ -1,0 +1,5 @@
+Hydra_vulgaris_Sc4wPfr_483.g14182.t1 Sc4wPfr_483.g14182.t1
+Hydra_vulgaris_Sc4wPfr_1630.1.g20734.t1 Sc4wPfr_1630.1.g20734.t1
+Hydra_vulgaris_Sc4wPfr_1630.1.g20734.t2 Sc4wPfr_1630.1.g20734.t2
+Hydra_vulgaris_Sc4wPfr_52.g22737.t1 Sc4wPfr_52.g22737.t1
+Hydra_vulgaris_Sc4wPfr_176.g26297.t1 Sc4wPfr_176.g26297.t1

@@ -1,0 +1,1 @@
+Tricoplax_adhaerens_tr_B3SB90_B3SB90_TRIAD tr_B3SB90_B3SB90_TRIAD Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_61531 PE=4 SV=1

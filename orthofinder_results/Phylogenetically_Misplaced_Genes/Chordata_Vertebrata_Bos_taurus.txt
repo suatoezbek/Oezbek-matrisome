@@ -1,0 +1,1 @@
+sp|P31836.1|NCAM1_BOVIN RecName_ Full=Neural cell adhesion molecule 1; Short=N-CAM-1; Short=NCAM-1; Flags_ Precursor

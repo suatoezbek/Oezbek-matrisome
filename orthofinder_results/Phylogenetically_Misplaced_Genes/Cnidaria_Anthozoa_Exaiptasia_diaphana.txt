@@ -1,0 +1,5 @@
+Exaiptasia_diaphana_XP_020917765.1 XP_020917765.1 uncharacterized protein LOC110255040 [Exaiptasia diaphana]
+Exaiptasia_diaphana_XP_028512732.1 XP_028512732.1 cubilin-like [Exaiptasia diaphana]
+Exaiptasia_diaphana_XP_020914407.2 XP_020914407.2 dorsal-ventral patterning protein tolloid-like [Exaiptasia diaphana]
+Exaiptasia_diaphana_XP_020896793.2 XP_020896793.2 malignant fibrous histiocytoma-amplified sequence 1 [Exaiptasia diaphana]
+Exaiptasia_diaphana_XP_028518403.1 XP_028518403.1 mucin-like protein_ partial [Exaiptasia diaphana]
