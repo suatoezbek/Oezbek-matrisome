@@ -13,7 +13,7 @@ FASTA files of complete proteomes used as basis for *in silico* matrisome genera
 
 ### in_silico_matrisomes
 #### from_literature
-In silico matrisomes taken from the [Matrisome Project](https://sites.google.com/uic.edu/matrisome/home) webpage. IDs were looked up in the respectie sequence data bases. For Bos Taurus (where no IDs were provided) genes were searched by gene name.<br>
+In silico matrisomes taken from the [Matrisome Project](https://sites.google.com/uic.edu/matrisome/home) webpage. IDs were looked up in the respective sequence data bases. For Bos Taurus (where no IDs were provided) genes were searched by gene name.<br>
 - *Homo sapiens*
 - *Mus musculus*
 - *Bos taurus*
@@ -24,7 +24,7 @@ In silico matrisomes taken from the [Matrisome Project](https://sites.google.com
 - *Schmidtea mediterranea*
 
 #### in_this_publication
-The following *in silico* matrisomes where generated with the methods described in the Materials and Methods and used as representative members of different taxa.
+The following *in silico* matrisomes where generated with the methods described in  Materials and Methods and used as representative members of different taxa.
 
 Chordata
 - *Branchiostoma belcheri*
@@ -68,7 +68,7 @@ In addition to the *in silico* matrisomes mentioned in this publication we also 
 Annelida
 - *Capitella teleta* (was excluded due to severe fragmentation)
 
-Cnidaria (where excluded to avoid a Cnidarian bias as much as possible)
+Cnidaria (were excluded to avoid a Cnidarian bias as much as possible)
 - *Acropora cervicornis*
 - *Acropora hyacinthus*
 - *Acropora millepora*
@@ -86,10 +86,10 @@ Cnidaria (where excluded to avoid a Cnidarian bias as much as possible)
 - *Cassiopea xamachana*
 
 ### orthofinder results
-This directory contains most of the output of the orthofinder run used to identify orthogroups. The extensive overview ove r the files can be found on the [OrthoFinder Tutorial](https://davidemms.github.io/orthofinder_tutorials/exploring-orthofinders-results.html).
+This directory contains most of the output of the orthofinder run used to identify orthogroups. An extensive overview over the files can be found on  [OrthoFinder Tutorial](https://davidemms.github.io/orthofinder_tutorials/exploring-orthofinders-results.html).
 
 ### Source Code
-This directory contains the python code whichas used to generate the in silico matrisomes and the following analyses. Some of these rely on additional files found in suppl_code_files.
+This directory contains the python code which was used to generate the in silico matrisomes and the following analyses. Some of these rely on additional files found in suppl_code_files.
 
 ### mass_spec_run
 This directory contains the MS files and R analysis markdown files written by Frank Stein.
