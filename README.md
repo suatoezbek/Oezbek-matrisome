@@ -93,3 +93,6 @@ This directory contains the python code which was used to generate the in silico
 
 ### mass_spec_run
 This directory contains the MS files and R analysis markdown files written by Frank Stein.
+
+### scRNA expression
+This directory contains the R script for generating scRNA expression plots written by Alison G. Cole.
